@@ -1,57 +1,69 @@
 package peloton
 
 import (
-	"bytes"
-	"crypto/tls"
-	"encoding/json"
-	"net/http"
-	"net/http/cookiejar"
-	"time"
+	"fmt"
+	"github.com/go-resty/resty"
+	"os"
 )
 
-// BaseAddress is the api endpoint for peloton
-const BaseAddress = "https://api.onepeloton.com/api"
+const defaultBaseURL = "https://api.onepeloton.com"
 
-// Client is a client for working with the peloton web api
-type Client struct {
-	Client  *http.Client
-	baseURL string
-	jar     http.CookieJar
+type PelotonClient struct {
+	client *resty.Client
 }
 
-// NewClient initializes a new HTTP client to interact with the web api
-func NewClient() *Client {
-	j, _ := cookiejar.New(nil)
-	transCfg := &http.Transport{
-		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
-	}
-	jClient := &http.Client{Jar: j, Transport: transCfg, Timeout: time.Second * 10}
-
-	return &Client{
-		Client:  jClient,
-		baseURL: BaseAddress,
-	}
+type Error struct {
+	Code    string `json:"error_code,omitempty"`
+	Message string `json:"error_message,omitempty"`
 }
 
-// Get executes a HTTP request to the web api
-func (c *Client) Get(url string, result interface{}) error {
-	resp, err := c.Client.Get(url)
-	defer resp.Body.Close()
+type User struct {
+	ID             string    `json:"id"`
+	FirstName      string    `json:"first_name"`
+	LastName       string    `json:"last_name"`
+	Username       string    `json:"username"`
+	Ftp            int       `json:"cycling_workout_ftp"`
+	CustomMaxHr    int       `json:"customized_max_heart_rate"`
+	TotalWorkOuts  int       `json:"total_workouts"`
+	DefaultMaxHr   int       `json:"default_max_heart_rate"`
+	EstimatedFtp   int       `json:"estimated_cycling_ftp"`
+	DefaultHrZones []float64 `json:"default_heart_rate_zones"`
+	//WorkOutCounts  []WorkOuts `json:"workout_counts"`
+}
+
+func NewPelotonClient(username string, password string) *PelotonClient {
+	client := resty.New()
+	client.SetDebug(false)
+	apiURL := os.Getenv("API_ADDR")
+	if apiURL == "" {
+		apiURL = defaultBaseURL
+	}
+	client.SetHostURL(apiURL)
+	client.SetError(&Error{})
+	auth := fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)
+	authData := []byte(auth)
+	client.R().
+		SetBody(authData).
+		Post("/auth/login")
+	return &PelotonClient{client: client}
+}
+
+func (c *PelotonClient) Me() (string, error) {
+	resp, err := c.client.R().
+		SetHeader("Accept", "application/json").
+		Get("/api/me")
 	if err != nil {
-		return err
+		return "", err
 	}
-	err = json.NewDecoder(resp.Body).Decode(result)
-	if err != nil {
-		return err
-	}
-	return nil
+	return resp.String(), err
 }
 
-// GetCookie executes a request to set the header to maintain session with the api
-func (c *Client) GetCookie(apiUrl string, data []byte) []*http.Cookie {
-	req, _ := http.NewRequest("POST", apiUrl, bytes.NewBuffer(data))
-	req.Header.Set("Content-Type", "application/json")
-	resp, _ := c.Client.Do(req)
-	defer resp.Body.Close()
-	return resp.Cookies()
+func (c *PelotonClient) Instructors() (string, error) {
+	resp, err := c.client.R().
+		SetHeader("Accept", "application/json").
+		Get("/api/instructor")
+	if err != nil {
+		return "", err
+	}
+	return resp.String(), err
 }
