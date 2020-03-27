@@ -13,7 +13,6 @@ Peloton API Go Client
 	password := os.Getenv("password")
 	var client *peloton.PelotonClient
 	client = peloton.NewPelotonClient(username, password)
-    //Get information about user
-    me, _ := client.Me()
-    fmt.printf("%s" me)
+	me, _ := client.Me()
+	fmt.printf("%s" me)
 ```
