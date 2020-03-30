@@ -3,6 +3,7 @@ Peloton API Go Client
 
 [![Go](https://github.com/mickfeech/peloton/workflows/Go/badge.svg)](https://github.com/mickfeech/peloton/actions?query=workflow%3AGo) 
 [![codecov](https://codecov.io/gh/mickfeech/peloton/branch/master/graph/badge.svg)](https://codecov.io/gh/mickfeech/peloton)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mickfeech/peloton)](https://goreportcard.com/report/github.com/mickfeech/peloton)
 ## Features
 
 * Get data about user as struct
