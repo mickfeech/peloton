@@ -1,3 +1,8 @@
+// Copyright (c) 2020 Chris McFee (cmcfee@kent.edu), All rights reserved.
+// Source code and usage is governed by an Apache style license
+// that can be found in the LICENSE file.
+
+// Package peloton provides a simple http rest client for the Peloton APIs
 package peloton
 
 import (
@@ -9,15 +14,18 @@ import (
 
 const defaultBaseURL = "https://api.onepeloton.com"
 
+// PelotonClient struct is used to create a resty client client
 type PelotonClient struct {
 	client *resty.Client
 }
 
+// Error struct to return messages from resty client
 type Error struct {
 	Code    string `json:"error_code,omitempty"`
 	Message string `json:"error_message,omitempty"`
 }
 
+// NewPelotonClient method creates a new client using the resty package
 func NewPelotonClient(username string, password string) *PelotonClient {
 	client := resty.New()
 	client.SetDebug(false)
@@ -35,7 +43,7 @@ func NewPelotonClient(username string, password string) *PelotonClient {
 	return &PelotonClient{client: client}
 }
 
-//func (c *PelotonClient) Me() (string, error) {
+// Me method creates a request to retrieve data about the current user
 func (c *PelotonClient) Me() (*models.User, error) {
 	resp, err := c.client.R().
 		SetHeader("Accept", "application/json").
@@ -48,6 +56,7 @@ func (c *PelotonClient) Me() (*models.User, error) {
 	return resp.Result().(*models.User), nil
 }
 
+// Instructors method creates a request to retrieve data about the instructors
 func (c *PelotonClient) Instructors() (*models.Instructors, error) {
 	resp, err := c.client.R().
 		SetHeader("Accept", "application/json").
