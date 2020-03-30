@@ -12,6 +12,7 @@ import (
 	"os"
 )
 
+// Default URL for all API requests
 const defaultBaseURL = "https://api.onepeloton.com"
 
 // PelotonClient struct is used to create a resty client client
