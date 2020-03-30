@@ -1,6 +1,7 @@
 # peloton
 Peloton API Go Client
 
+![Go](https://github.com/mickfeech/peloton/workflows/Go/badge.svg)
 ## Features
 
 * Get data about user as struct
