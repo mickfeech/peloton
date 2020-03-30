@@ -3,8 +3,8 @@ Peloton API Go Client
 
 ## Features
 
-* Get data about user as json string
-* Get data about instructors as json string
+* Get data about user as struct
+* Get data about instructors as struct
 
 ## Usage
 
