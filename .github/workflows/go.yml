@@ -9,9 +9,10 @@ on:
 jobs:
   lint:
     name: Lint
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        name: Check out code into the Go module directory
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v2
       - name: Lint
         uses: actions-contrib/golangci-lint@v1
   test:
