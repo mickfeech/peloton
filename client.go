@@ -2,7 +2,7 @@ package peloton
 
 import (
 	"fmt"
-	"github.com/go-resty/resty"
+	"github.com/go-resty/resty/v2"
 	"github.com/mickfeech/peloton/models"
 	"os"
 )
