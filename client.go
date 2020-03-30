@@ -38,9 +38,12 @@ func NewPelotonClient(username string, password string) *PelotonClient {
 	client.SetError(&Error{})
 	auth := fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)
 	authData := []byte(auth)
-	client.R().
+	resp, err := client.R().
 		SetBody(authData).
 		Post("/auth/login")
+	if err != nil || resp.IsError() {
+		fmt.Println("There was an error")
+	}
 	return &PelotonClient{client: client}
 }
 
@@ -53,7 +56,6 @@ func (c *PelotonClient) Me() (*models.User, error) {
 	if err != nil {
 		return nil, err
 	}
-	//return resp.String(), err
 	return resp.Result().(*models.User), nil
 }
 
