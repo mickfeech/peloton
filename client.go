@@ -48,12 +48,13 @@ func (c *PelotonClient) Me() (*models.User, error) {
 	return resp.Result().(*models.User), nil
 }
 
-func (c *PelotonClient) Instructors() (string, error) {
+func (c *PelotonClient) Instructors() (*models.Instructors, error) {
 	resp, err := c.client.R().
 		SetHeader("Accept", "application/json").
+		SetResult(&models.Instructors{}).
 		Get("/api/instructor")
 	if err != nil {
-		return "", err
+		return nil, err
 	}
-	return resp.String(), err
+	return resp.Result().(*models.Instructors), err
 }
