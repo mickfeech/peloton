@@ -34,5 +34,17 @@ var _ = Describe("ApiClient", func() {
 			_, err := client.Me()
 			Expect(err).To(BeNil())
 		})
+		It("Returns a first name", func() {
+			m, _ := client.Me()
+			Expect(m.FirstName).To(Equal("John"))
+		})
+		It("Returns a last name", func() {
+			m, _ := client.Me()
+			Expect(m.LastName).To(Equal("Doe"))
+		})
+		It("Returns a username", func() {
+			m, _ := client.Me()
+			Expect(m.Username).To(Equal("jdoe"))
+		})
 	})
 })
