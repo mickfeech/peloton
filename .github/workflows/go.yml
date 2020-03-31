@@ -36,7 +36,10 @@ jobs:
             dep ensure
           fi
       - name: Test
-        run: ginkgo -r -coverprofile=coverage.txt -covermode=atomic -race
+        run: |
+          go get github.com/onsi/ginkgo/ginkgo
+          go get github.com/onsi/gomega/...
+          ginkgo -r -coverprofile=coverage.txt -covermode=atomic -race
       - name: Upload Coverage
         run: bash <(curl -s https://codecov.io/bash)
   build:
