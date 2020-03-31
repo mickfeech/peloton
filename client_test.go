@@ -17,8 +17,22 @@ var _ = Describe("ApiClient", func() {
 	BeforeEach(func() {
 		defer gock.Off()
 	})
-
-	Describe("Me", func() {
+	Describe(".Instructors()", func() {
+		BeforeEach(func() {
+			testData, err := ioutil.ReadFile("testdata/instructors.json")
+			if err != nil {
+				fmt.Printf("Error: %v", err)
+				Fail("Error retrieving json test data")
+			}
+			gock.New("https://api.onepeloton.com").
+				Get("/api/instructor").
+				Reply(200).
+				JSON(testData)
+		})
+		PIt("Returns a list of instructors", func() {
+		})
+	})
+	Describe(".Me()", func() {
 		BeforeEach(func() {
 			testData, err := ioutil.ReadFile("testdata/me.json")
 			if err != nil {
