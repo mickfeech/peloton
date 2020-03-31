@@ -42,24 +42,18 @@ func NewApiClient(username string, password string) *ApiClient {
 
 // Me method creates a request to retrieve data about the current user
 func (c *ApiClient) Me() (*models.User, error) {
-	resp, err := c.Client.R().
+	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.User{}).
 		Get("/api/me")
-	if err != nil {
-		return nil, err
-	}
 	return resp.Result().(*models.User), nil
 }
 
 // Instructors method creates a request to retrieve data about the instructors
 func (c *ApiClient) Instructors() (*models.Instructors, error) {
-	resp, err := c.Client.R().
+	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.Instructors{}).
 		Get("/api/instructor")
-	if err != nil {
-		return nil, err
-	}
-	return resp.Result().(*models.Instructors), err
+	return resp.Result().(*models.Instructors), nil
 }
