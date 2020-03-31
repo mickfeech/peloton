@@ -1,37 +1,57 @@
 package peloton
 
 import (
-	"strings"
-	"testing"
+	"fmt"
+	. "github.com/onsi/ginkgo"
+	. "github.com/onsi/gomega"
+	"gopkg.in/h2non/gock.v1"
+	"io/ioutil"
 )
 
-func TestNewPelotonClientURL(t *testing.T) {
-	result := NewPelotonClient("", "")
-	if result.client.HostURL != "https://api.onepeloton.com" {
-		t.Errorf("API URL should be set, got %v", result.client.HostURL)
-	}
-}
+var _ = Describe("ApiClient", func() {
+	var client *ApiClient
 
-func TestNewPelotonClientResponses(t *testing.T) {
-	result := NewPelotonClient("", "")
-	resp, _ := result.client.R().
-		SetHeader("Accept", "application/json").
-		Get("api/instructor")
-	if resp.StatusCode() != 200 {
-		t.Errorf("Client should receive http 200 code from unauth endpoint, got %v", resp.StatusCode())
-	}
-	if strings.Join(resp.Header()["Content-Type"], "") != "application/json" {
-		t.Errorf("Expected json content type got %v", resp.Header()["Content-Type"])
-	}
-}
+	BeforeSuite(func() {
+		client = NewApiClient("", "")
+	})
+	BeforeEach(func() {
+		defer gock.Off()
+	})
+	Describe(".Instructors()", func() {
+		BeforeEach(func() {
+			testData, err := ioutil.ReadFile("testdata/instructors.json")
+			if err != nil {
+				fmt.Printf("Error: %v", err)
+				Fail("Error retrieving json test data")
+			}
+			gock.New("https://api.onepeloton.com").
+				Get("/api/instructor").
+				Reply(200).
+				JSON(testData)
+		})
+		It("Returns a count of instructors", func() {
+			gock.InterceptClient(client.Client.GetClient())
+			m, _ := client.Instructors()
+			Expect(m.Total).To(Equal(34))
+		})
+	})
+	Describe(".Me()", func() {
+		BeforeEach(func() {
+			testData, err := ioutil.ReadFile("testdata/me.json")
+			if err != nil {
+				fmt.Printf("Error: %v", err)
+				Fail("Error retrieving json test data")
+			}
+			gock.New("https://api.onepeloton.com").
+				Get("/api/me").
+				Reply(200).
+				JSON(testData)
+		})
 
-func TestPelotonClient_Instructors(t *testing.T) {
-	client := NewPelotonClient("", "")
-	m, _ := client.Instructors()
-	if m.Count <= 0 {
-		t.Errorf("Should have more than 0 instructors, got %v", m.Count)
-	}
-	if m.Total <= 0 {
-		t.Errorf("Should have more than 0 instructors, got %v", m.Total)
-	}
-}
+		It("Returns a first name", func() {
+			gock.InterceptClient(client.Client.GetClient())
+			m, _ := client.Me()
+			Expect(m.FirstName).To(Equal("John"))
+		})
+	})
+})
