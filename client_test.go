@@ -29,7 +29,10 @@ var _ = Describe("ApiClient", func() {
 				Reply(200).
 				JSON(testData)
 		})
-		PIt("Returns a list of instructors", func() {
+		It("Returns a count of instructors", func() {
+			gock.InterceptClient(client.Client.GetClient())
+			m, _ := client.Instructors()
+			Expect(m.Total).To(Equal(34))
 		})
 	})
 	Describe(".Me()", func() {
