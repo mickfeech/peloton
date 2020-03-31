@@ -1,0 +1,1808 @@
+{
+  "total": 34,
+  "count": 34,
+  "sort_by": "list_order",
+  "limit": 100,
+  "page_count": 1,
+  "page": 0,
+  "show_previous": false,
+  "show_next": false,
+  "data": [
+    {
+      "id": "b8c2734e18a7496fa146b3a42465da67",
+      "bio": "To Aditi, yoga is a workout, a science and a worldview wrapped into a way of life. Aditi was introduced to yoga by her parents at a young age, but it wasn’t until she moved to India after college and experienced twists and turns in her finance, modeling and acting careers, that Aditi realized the yoga mat is where she was always meant to be. Aditi honed her refreshingly modern, yet history-rich teaching style while studying and practicing yoga in India and NYC for more than 10 years. Named one of NYC’s best instructors, she has taught and hosted workshops around the city and has led exciting events like a 2000+ person class in Time Square broadcast on national television.",
+      "short_bio": "",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 5,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4GsoQbksdXb8QxDdhSJlWr",
+      "background": "Yoga is a practice that allows us to thread together the external with the internal - the physical workings with the mental, emotional, spiritual.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Yoga is a direction - you are aiming for a posture. You don’t have to get there today, but you do have to start, you do have to try. When I began practicing, I could not get my hands to the ground."
+        ],
+        [
+          "Outside of Peloton ",
+          "I’m a total nerd about health and love to read about science. I also love to travel the world and I lived in Mumbai for a few years and love it there. I’ve climbed Kilimanjaro, and love to trek and hike."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Practice makes progress.",
+      "username": "aditishah",
+      "name": "Aditi Shah",
+      "first_name": "Aditi",
+      "last_name": "Shah",
+      "user_id": "b3ddf2fd15d8437db6d96ceb1ca43f99",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0ff6d91c3cec425882bed078aee539ae",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5c57aa0949e1416aa983ecafafc21c61",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c53409bfcfb341c28b1c3f5583c91315",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/6a7dca8299ed497784c42870a053b62f",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c35775f45c604f2cbb565d0a346447ba",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/372a69ac9a16497fbca5aedc679999b4",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/1d1b84092858476384817549fded953d",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/881ed17ee5464bc09b7b6cc114fac8fe",
+      "fitness_disciplines": [
+        "meditation",
+        "yoga"
+      ]
+    },
+    {
+      "id": "a8c56f162c964e9392568bc13828a3fb",
+      "bio": "When Anna first turned to yoga, she felt a switch turn on inside of her. As she built a deeper connection with her mind and body, she began accomplishing things she never knew possible. Moved to share the transformative properties of the practice with others, Anna dove head first into yoga. Anna has crafted a unique teaching style that uses movement and music to help her Members connect to the same healing properties of yoga that she has experienced over the years. Anna is a prominent teacher trainer, workshop leader and instructor in NYC.",
+      "short_bio": "“Look for balance but always be willing to fall”",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 6,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4VFujVb67VlWFfSrz3BcWl",
+      "background": "My classes combine heat building movement with precise, focused instruction for Members to find stability and space in their bodies and minds. Watching Members grow and thrive on the mat and in their lives is what inspires me to teach!",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I aim to inspire people to do their best and let go of the results. Yoga is not a competition or performance, it’s just for you (how great is that?). It’s a tool to strengthen your relationship with yourself."
+        ],
+        [
+          "Outside of Peloton",
+          "When I’m not standing on my hands, you can catch me traveling the world whenever, and wherever I can. I enjoy being in nature, hiking, biking and just walking around and taking it all in."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Look for balance but always be willing to fall.",
+      "username": "agreenberg",
+      "name": "Anna Greenberg",
+      "first_name": "Anna",
+      "last_name": "Greenberg",
+      "user_id": "026d817a66704ea6b5bc148ba0b803f7",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b07a4ad3f0504d589f13d760ce010cd3",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a423930b36cc4794b1d1ea836f33768c",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3c7b43033049475b9b3b95d67848c683",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/76f3fbaa9c6448579f7d0d9bed8a5b53",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/129eb1916178457fac5a39476a1211ce",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/6081ded723014f1c9e89841efac9dfd7",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/028db643b6d0412f898afe791a0d9d34",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/7e14b96b609f4e47b497ef9b844a5b98",
+      "fitness_disciplines": [
+        "meditation",
+        "yoga"
+      ]
+    },
+    {
+      "id": "2e57092bee334c8c8dcb9fe16ba5308c",
+      "bio": "Alex Toussaint has a love for fitness, teamwork and discipline rooted in his military school background. With his eye always on the prize, Alex uses the power of positivity to motivate Members to confront their limitations and push past them. In his class, you can expect a well-structured ride, and to walk out feeling his mantra in your bones: “Feel good, look good, do better.” ",
+      "short_bio": "\"Feel good. Look good. Do better! \r\n… Trust the Process!\"\r\n",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 8,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/alextoussaintfitness/",
+      "music_bio": "Check out a sample of Alex’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:77bxh3Xw9h5tHOrNv5Zkj7",
+      "background": "I approach all my classes like it might be my last one. Watching Members become the best version of themselves truly inspires me to give it my all every ride I teach.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Using my military background, I push my Members to their full potential at all times. I want Members to approach my workout like an athlete, and leave feeling like a champion.\r\n"
+        ],
+        [
+          "Outside of Peloton",
+          "When I’m off the Bike I’m on the basketball court or gym. Fitness isn't just my hobby, it’s my life!"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Feel good. Look good. Do better! \r\n… Trust the Process!",
+      "username": "AlexToussaint",
+      "name": "Alex Toussaint",
+      "first_name": "Alex",
+      "last_name": "Toussaint",
+      "user_id": "f42d9968258c4877b8aea54cbe51ad77",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ed338e46f7e746409a7e0a2d28ddedda",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/43350a0e581d45f0bf1a98f18f26b637",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8af7ac20ff26473093c47c84c71c7894",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a914e36fa78046bd9d078352831ddad9",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/108e25fac8a04d709c61e7df39a0d5d6",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/b5e3da85050748368eee9aeaa5a96ac3",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e4c30e1a1f094271bf65369af0206fe0",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/10e643fc3b7b44928e3c97a372322874",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "731d7b7f6b414a49892c21f01e25317d",
+      "bio": "As a model, dancer, certified health coach, host of the Brooklyn Nets, runner, and the founder of fitness lifestyle brand Love Squad, Ally really does it all. At Peloton as in all of her pursuits, Ally’s goal is to lead by example while empowering people to approach wellness and fitness in a positive light. When she’s not on the Peloton Bike, you can find her flexing her entrepreneurial muscles, or enjoying a good doughnut. ",
+      "short_bio": "They say the early bird gets the worm, but the early bird only gets whatever is left over from the hustlers.",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 9,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/allylovepeloton/",
+      "music_bio": "Check out a sample of Ally’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:3bIq6eu3XKCU3Qc6dp37gu",
+      "background": "My life goal is to remind the world that we all have one life to live, and together we should live it to the fullest. I believe that what connects us most is the power of sweat, and physically working through things as a team.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "We ride to become boss of the Bike and to remind ourselves that we are the boss of our lives. My classes are designed to make you feel proud and uplifted, both on and off the bike."
+        ],
+        [
+          "Outside of Peloton",
+          "I always try find the right balance of fun and work, knowing they don't have to be different things. Off the Bike I love donuts, tennis, basketball, karaoke and parties."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "They say the early bird gets the worm, but the early bird only gets whatever is left over from the hustlers.",
+      "username": "AllyMissLove",
+      "name": "Ally Love",
+      "first_name": "Ally",
+      "last_name": "Love",
+      "user_id": "2c094f455ec64611baf612dfdef1f6a7",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5b812e410b5a4ab4b8573ab2b1e2b5ad",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/747e496370f04f89a71a288ba781a3d5",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2b1027db53cc48c0bcc2e999ac224ae8",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c9dc8874b5f5431cb49e57fcfd09abf4",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/85182219e21c43b39aa1251dd8f12adb",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/3aa1d1019b904fdea345a771049f01d9",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/66e9c17e00344d5aa4c6eb5d01fbb1bf",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/10ffe17da2334080a45f77d0cb239325",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "c9fa21c2004c4544a7c35c28a6196c77",
+      "bio": "Andy takes a technique-centered approach to fitness, drawing on his experience as an accomplished former gymnast and pole vaulter in his home state of Connecticut. A celebrated personal trainer in NYC before joining Peloton, Andy is inspired by the world-class fitness and strength coaches who taught him, and brings his breadth of training knowledge to every workout.",
+      "short_bio": "\"Fight Fatigue with Focus.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 10,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/AndySpeerPeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:1TuJLkF4s4n0g6Q7rgFKno",
+      "background": "My inspiration for teaching is rooted in helping others improve their lives through fitness, as other coaches have done for me, now it’s my turn to pay it forward.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I want members to approach my class with an intent to be challenged and grow. I focus on technique and ensure that there is a purpose behind everything I ask of you."
+        ],
+        [
+          "Outside of Peloton",
+          "My training also includes gymnastics, kettlebells, Olympic weightlifting, Muay Thai kickboxing, and yoga. I also enjoy watching documentaries, meditation, reading, and listening to Podcasts."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Fight Fatigue with Focus.",
+      "username": "ASpeer",
+      "name": "Andy Speer",
+      "first_name": "Andy",
+      "last_name": "Speer",
+      "user_id": "1983bc74b89c403db8876500b1895573",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8411c574a4104025ab2916d8ee54edab",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/afd27714abe24e0dacf95ee18d0c9a8e",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5e572b684c0a456cb8fe98583753c655",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/69b41ec59e9447668b6ab8dd9ee9673a",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1fb64dadf60c440e92aa0dab89e879af",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/cfc46a46f3394495a39c1f5e3ababe99",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/1eb06d23f03746e097e54327e40b50d2",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/86a2dd21432c409da10e421d2db10eb9",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "286fc17080d34406a54b80ad8ff83e12",
+      "bio": "Becs joins Peloton from London as an accomplished distance runner and coach who uses the sport as a way to explore the world. From adventurous trails, tropical beaches, and exotic volcanoes, to sub-3:00 marathons and demanding ultramarathons, she’s run across the globe and can’t wait for her next journey on the Peloton Tread. When teaching, Becs shares wisdom from her own training experience to help inspire everyone from first time runners to seasoned athletes. No matter how experienced you are, you’ll leave her class smiling and proud, energized to tackle your next challenge.",
+      "short_bio": "\"Challenge yourself, and be determined to thrive.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 11,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/becsgentrypeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:25hvBDM2UA8X9EZqvsA51k?si=6OGJiiQiQbqyUkbi3_QRAw",
+      "background": "My inspiration comes from running all around the world! I want to teach the people in my class to love the way running makes them feel. My approach is tough, but I’ll always run with a smile because my passion for the sport is so alive.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I share a lot of my own personal training experiences to relate to people in my classes. I want Members to see that we have the same goals, and are on a journey together."
+        ],
+        [
+          "Outside of Peloton",
+          "I train for my own goals, setting myself up for whatever my next race may be. I adore spending time eating my way around cities, so moving to NYC has been a dream and I keep finding amazing new places everywhere I go."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Challenge yourself, and be determined to thrive.",
+      "username": "BecsGentry",
+      "name": "Becs Gentry",
+      "first_name": "Becs",
+      "last_name": "Gentry",
+      "user_id": "81be40879cf34e4581e1840d217146e3",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/adc7373b2e734f09a97ca51c3bfc5da6",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f330cae7b2bd49d7b7300c35ba479f7e",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/37913816c8d94c3ea00a1fb941bea157",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b9bbff07102b4a3ab9ade5b328372db6",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0d185aebed3442ce8288dce5f907147d",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ce88865d40e74a07bf76cdc5c29529be",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/03a894c7bb1f4f9a995a504eb3cb4a75",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fd5be9e6d5e047b0b2f83a3422762001",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "7f3de5e78bb44d8591a0f77f760478c3",
+      "bio": "Growing up, Ben was an accomplished athlete who was always looking for the opportunity to run, ride, kick a ball or compete. Working at a prestigious finance firm, Ben found himself daydreaming about his days on the field and in the gym. That inspired him to begin training clients as a side hustle. He quickly gained momentum and decided to take a leap of faith to leave finance behind to pursue his true passion in fitness. Ben is excited to connect through his love of music, coach with Peloton Members around the world, and become a part of their story as they move through challenges on and off the Bike. Ben is based in the UK and teaches live rides from our London studio.",
+      "short_bio": "Work hard in silence, let progress be your noise.",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 12,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:1APNxztsymOZZyGm9wsA2Y",
+      "background": "I love fitness because it has a wonderful way of breaking down barriers for people.",
+      "ordered_q_and_as": [
+        [
+          " How Do You Motivate?\r\n",
+          "I love having the opportunity to change someone’s mindset and self-belief. I love to inspire. I love to educate people so they feel fully in control of their own progress."
+        ],
+        [
+          "Outside of Peloton",
+          "I found my passion for training through track and field, and have completed marathons and ultra endurance events. Outside of fitness, I’m a huge fan of live music and travel, and am always on the hunt for my next meal."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Work hard in silence, let progress be your noise.",
+      "username": "ChampionSpirit",
+      "name": "Ben Alldis",
+      "first_name": "Ben",
+      "last_name": "Alldis",
+      "user_id": "085884a8a402401087043f4f1be5ac90",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1f6cea8813aa404eba9dbc62bfdfb158",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/884a3bfff79c4e9dbf3f14d42df10a59",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0fdd04214ba944568c937ca730662e5f",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8607efdd5bed48038579d25dcee46143",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4aa24c3fba07458f8084df128df4f979",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/7fd671a192494c79963bd2550f22c4d2",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/210e0234a6344404ab6ba0431b607d61",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e3f57d22ad1446bab2455cdc875e3804",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "1423df9e4ad64a84a3044d20a5c36563",
+      "bio": "Growing up in a household of athletes in Chicago and majoring in kinesiology in college, Chase knew that fitness and movement would play a big role in his life. It was while working in physical therapy at a sports medicine clinic that Chase fell in love with helping people improve their lives through fitness. Chase has also worked as a personal trainer, bootcamp instructor and lifestyle coach, and brings his positive outlook and passion for helping people improve their confidence to his Peloton Tread classes.",
+      "short_bio": "\"It’s what you do in the dark that puts you in the light.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 13,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/chasetuckerpeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:1wronrrPSROrD12FoQBFvs?si=a2qTQrYgTRiuaOKLclgx8A",
+      "background": "I want Members to approach my workouts by looking at the big picture. Our time together will be so much deeper than just “working out” or “being fit.” It will be about showing up to conquer what’s in front of us.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I want Members to approach my workouts as so much more than just that. This is so much deeper than just “working out” or “being fit.”"
+        ],
+        [
+          "Outside of Peloton",
+          "I’m always learning. This can come in many of forms: cooking, traveling, reading, dancing, coaching, acting and more."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "It’s what you do in the dark that puts you in the light.",
+      "username": "pelotonchase",
+      "name": "Chase Tucker",
+      "first_name": "Chase",
+      "last_name": "Tucker",
+      "user_id": "af6fc97edfba4ac0b53078ae48a6d19f",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d4f3dfe82f62455b9cfce79f4e669dee",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/560a2c8f914b46eda8973308d71410f7",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/116eed9082614621918e8f30bd2e9bb1",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/af4bae26e69340e6806c8731018a1f4d",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f915248a07c541e4bfbc543dd4a92089",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/e2eb2a9baa6a46c0a258e8d2fb8ff210",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/43b508029f30404087d4122a6bf3e3e0",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/720a8164c30249aa9578f7ede8926905",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "5a19bfe66e644a2fa3e6387a91ebc5ce",
+      "bio": "Christine D’Ercole is a decorated track cyclist who brings this expertise to every Peloton class. Grounded in science, music, grit and grace, Christine believes that at all times you have two tools at your disposal: your breath and your inner monologue. In her class, you can expect Christine to empower Members to break through self-imposed limitations, and embrace their authentic selves and strength, both on and off the Bike.",
+      "short_bio": "\"I AM. I CAN. I WILL. I DO.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 14,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/christinedercolefitness/",
+      "music_bio": "Check out a sample of Christine’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6fPb995k5AVky3GV5Xbcy0",
+      "background": "My classes are grounded in science, grit and grace. I will give you structured formats rooted in 20 years of competitive cycling experience set to playlists that push you farther than you thought possible.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "Every class is an opportunity to put something across the finish line and make yourself proud. By showing up, turning it up and not giving up, we practice real-life skills that translate off the Bike."
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "BIKE RACING!, Wordshop™, writing, cooking, fine wine, scuba diving and photography."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "I AM. I CAN. I WILL. I DO.",
+      "username": "IAMICANIWILLIDO",
+      "name": "Christine D'Ercole",
+      "first_name": "Christine",
+      "last_name": "D'Ercole",
+      "user_id": "2897f20a1bd04b1697b8dde6d5392b1d",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a1f82585a7c8432e8a92e4afd29aa961",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/542f2a9ddf554517b5886fd433093388",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f2903d655edd4198bc77de3f2cda5918",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0129302fb9d64324847a71b6a4e8a208",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ae9583fbef064dce92b91b5c6e3034eb",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/c8f89880c74a4afb8a68c2807e86b615",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/6aa4953fbafd423689315986f5bc5fc1",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/241fbdbcb01848dd8ee3141bae1322ef",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "baf5dfb4c6ac4968b2cb7f8f8cc0ef10",
+      "bio": "A former professional dancer, Cody brings energy, movement and authenticity to everything he does. Born in the West but raised in the South, Cody always dreamed of a life in the big city. Now that he proudly calls NYC home–and the best city in the world–he strives to be the best version of himself while inspiring Members to be the same. Cody reminds everyone in his class to push themselves, but have a good time doing it, because we all need to have a little more fun. ",
+      "short_bio": "\"Can I do this? ABSOLUTELY!\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 15,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/codyrigsbyfitness/",
+      "music_bio": "Check out a sample of Codys current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:22AG7vDckbqGeroTTGocUQ",
+      "background": "Success happens when you allow yourself to be in the present moment —  when we truly let go of any regret of the past or fear of the future. \r\n",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "If I am not living my truth in everything I do, then I am not doing it right. I want Members to have fun while they’re working out, and remember that even though it’s challenging, \"It’s not that deep!”"
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "Outside of Peloton I love to travel and discover the world. Because of my busy life in NYC, I love to find balance and serenity through my meditation practice."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Can I do this? ABSOLUTELY!\r\n",
+      "username": "codyrigsby",
+      "name": "Cody Rigsby",
+      "first_name": "Cody",
+      "last_name": "Rigsby",
+      "user_id": "b9e9151f055340349609e5980a338aeb",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4d6120efa75447bebb47b6a08421b546",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/cb306c375f3c4cb58f122e3e8865b573",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fdd87eeec6994391acffbece2785a06a",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c60c8cdaae4e491c9726ff28becf35a8",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/50b3d98e87f446f3b2e6dfde4d87b42d",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/4b96067449f0432b938cab3216cb3a1b",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e04bd90eea924068beeb3aacab327bc9",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f7215711784d420a99dfd51c57de64a7",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "1e59e949a19341539214a4a13ea7ff01",
+      "bio": "Raised in Florida, schooled in Tennessee, steeped in southern California and heat-tested in Texas, Denis brings 14 years of fitness leadership to Peloton. With an athletic history ranging from college football to aerial acrobatics, and a musical taste to match, Denis will keep you moving, grooving and guessing what comes next.",
+      "short_bio": "“Learn to love the skin you’re in.”",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 16,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "Check out a sample of Denis’ current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:5ThwrtEuDGiQAWiO3nI8YY",
+      "background": "This bike gives us an opportunity to reclaim our natural athleticism, even if only for a few minutes each day, which leads naturally to a renewed self image and that feeling of athleticism that had long been lying dormant.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I use music and personal stories to connect deeply between the workout, the people in the room and the Members around the world. I want to inspire people to explore their own abilities with my guidance and experience."
+        ],
+        [
+          "Outside of Peloton",
+          "I surf, practice yoga, snowboard, skateboard, hike, play guitar, read historical nonfiction, lift weights, watch college football (FSU) and look for chances to stamp my passport."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Learn to love the skin you’re in",
+      "username": "Loonisee",
+      "name": "Denis Morton",
+      "first_name": "Denis",
+      "last_name": "Morton",
+      "user_id": "c7443a7d826743c180de16459e2c99a7",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3015c9c8b8634c7599d89b059071513c",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c907860d917d4ca4a5f024e3ba044190",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/45abbb08c9bf4d66bf057d6e08abe733",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/6791dce6d0e34547907810d52cfca68f",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e663f5068ac240be8665feb18322bae2",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/fe748a3693e847a1a2670c88814c88cc",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/6d8cd2b933274bf8bec5e63bd2d5b325",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2bfa19e7bb3a4f72bc45a5eea697d35b",
+      "fitness_disciplines": [
+        "strength",
+        "stretching",
+        "cycling",
+        "cardio",
+        "yoga"
+      ]
+    },
+    {
+      "id": "f6f2d613dc344e4bbf6428cd34697820",
+      "bio": "Emma Lovewell is a Martha’s Vineyard native and a woman of all trades. She’s spent much of her career in fitness and wellness as a professional dancer, dance coach, fitness model, personal trainer and pilates instructor. Emma was also a DJ, and brings this love of music to her teaching style at Peloton. She’s passionate about movement and connecting the heavy beats of her playlists to each ride she teaches. After class, expect to feel like you just stepped off the dance floor.",
+      "short_bio": "\"I love you, but I’m going to push you.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 17,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "Check out a sample of Emma’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4z5nf64xaZDGAGdPgd2MZp",
+      "background": "I always try to find the perfect combination of training and entertainment so that class will fly by, and you won’t even realize how hard you just pushed yourself.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I want people to feel lighter when they finish my class; whether it’s leaving behind a puddle of sweat, or letting go of negative thoughts or feelings. Don’t ever miss an opportunity to get stronger."
+        ],
+        [
+          "Outside of Peloton",
+          "I come from a creative family of entrepreneurs so I play the piano, enjoy painting watercolors, cooking, gardening, adventuring and traveling. I always need a creative outlet so I have a lot of hobbies!"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "I love you, but I’m going to push you.",
+      "username": "islandlife17",
+      "name": "Emma Lovewell",
+      "first_name": "Emma",
+      "last_name": "Lovewell",
+      "user_id": "097db0ef549b4c27a29a68ba05856e22",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3878062e2e724ec7be0d4c760d48b878",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/685176202a9145b19d1bf7668c318999",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f3f4b49d893046eda6e0259c90531e07",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fd0e43d3622c42afac1dd1f6deddcbbb",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/aab0bbd729f94be0b835d08507410eea",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/dcb5c80975974866ae5715ef73543aca",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/2c07d9687e694904ba99bd87fd1e04bf",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/67a236db26b84c8084729360d998e949",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "017dd08b095346979ddf761eb49f9f67",
+      "bio": "Erik brings the joy of sport and fitness to Peloton. Growing up a passionate soccer player and fan, Erik learned how to be a positive leader and team player. This ultimately guided him to a career in athletic and personal training. Erik loves helping others achieve their goals, and believes that, no matter, what getting healthy and strong should always be lighthearted and fun. ",
+      "short_bio": "",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 18,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "https://open.spotify.com/playlist/64Am2hudgq0C20YTDRpNxS?si=eE0JIslFSJ-XKwwwG8VyjA",
+      "background": "I want to make people feel good—about themselves and about their lives. By working hard and laughing together on the Bike, we’ll channel each other’s positive energy and discover more confidence along the way. ",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "By reminding you that you are not alone! I’m sweating and being challenged right alongside you every minute of class, and my goal is to keep you smiling the whole time."
+        ],
+        [
+          "Outside of Peloton",
+          "When I’m not recharging, I try to enjoy every minute of life. I love to see the world, party with friends and eat ice cream"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Sport is for everyone.",
+      "username": "hauptstadttrain",
+      "name": "Erik Jäger",
+      "first_name": "Erik",
+      "last_name": "Jäger",
+      "user_id": "2e7f260795124de1bd31f5eba41d2656",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/be025abf3c4f4ac692e9d5966fc959fe",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a8d358d92665474083836af2a6d183d6",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f509e97412c144fb8499f2ce18e614d3",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/adeab8ceab994de0b9caa61a59b84dda",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1c25546a3c85432b9f64fe28eae557dd",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/6eaa52b4c51444389497f9420767a437",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/c0d83fcf132e49799666af735c17d1a4",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4bc12c106243413fbca4b110defd0adb",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "561f95c405734d8488ed8dcc8980d599",
+      "bio": "Hannah grew up in Portland, Oregon and came to New York City to dance. She is passionate about guiding others’ fitness journeys and watching them evolve. A kick-your-butt drill sergeant, fiery New York dancer and a West Coast flower child all at once, Hannah is dedicated to a teaching style that empowers people to appreciate how strong they are, and how to protect that strength with stretching when they hop off the Bike and head out into the world.",
+      "short_bio": "\"You are a rockstar. Treat yourself accordingly.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 19,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/HMCfitness/",
+      "music_bio": "Check out a sample of Hannah’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:69cHIGdppTnVnzUcuYCoSX",
+      "background": "Wanna hear a joke? Thinking you have limits. I teach for that moment when you realize what I've known from the start: you can do this, and you're stronger than you know.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Treat your body like it belongs to someone you love. Admire your strength, and take time to recover. And always ask yourself, #didyoustretchtho?"
+        ],
+        [
+          "Outside of Peloton",
+          "I'm on a quest to hang upside down from every ceiling on silks, hug every tree in the Northeast, and dance down every street in Manhattan."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "You are a rockstar. Treat yourself accordingly.",
+      "username": "HMC_NYC",
+      "name": "Hannah Marie Corbin",
+      "first_name": "Hannah",
+      "last_name": "Marie Corbin",
+      "user_id": "a213ad5794894088aabb71cbc063474b",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/9d0066f93a904eac94ddbac2a4361047",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/20b1f67a097a48be9885bba1ebd0c243",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b467763e3d074ee9a6145278899393c8",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4d4edaced3064a4495ab3dd415b4b271",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/89edbd70efa446999ae4c48ef8717aed",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ce64efae82eb46078a8f412e559050c3",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/660f94de4b1f4e30831f1b8ede81c71c",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e4217aa062594255a53351fc82651677",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "3ff679ebbd324c83a8ab6cfa6bb4be37",
+      "bio": "Hannah’s electric spirit empowers others to show up and celebrate every milestone. Active from a young age, she seized every moment to push herself past what others deemed impossible. From her time spent as a competitive triple jumper to training alongside Olympic athletes, Hannah grew an appreciation for the power and strength hidden within. This passion eventually led her to fall in love with making exercise fun for everyone. Through music, sweat and cycling, she loves to show people that there is magic in every moment. All you have to do is show up! Hannah is based in the UK and teaches live rides from our London studio.",
+      "short_bio": "quote",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 20,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "https://open.spotify.com/playlist/2uZb5tEHuGQkHlFhhBPMqr?si=4Zc03VOFQ5ylLgo-CNWVzA",
+      "background": "If you want to learn more about who you are, you have to take yourself to places you’ve never been. Come ride with me and take your body and mind on an adventure in a fun and challenging way!",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I like to champion Members for the big and small victories they create. In a world where we are always blinded by what we aren't, I want to remind people of who they are and what they already have."
+        ],
+        [
+          "Outside of Peloton",
+          "I love London, especially the east. I like cycling or walking down the canal in summer, hitting a live music or comedy night, checking out an exhibition or getting down at a decent club night."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "“Own your body. Challenge your mind.” ",
+      "username": "ImFranktheTank",
+      "name": "Hannah Frankson",
+      "first_name": "Hannah",
+      "last_name": "Frankson",
+      "user_id": "d7328df80a0e46539f4a1c6ed1e63c3a",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3c874d501ff543269a88451ad392e0e1",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/771b3a2825504b1cbff1f9ba9fc291fa",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a159678ffd7948d88e90da99ea36230f",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/550b697187494d228e253a87f31412ef",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1c61d496cffd4256ab9f172a24860f60",
+      "jumbotron_url": "https://s3.amazonaws.com/workout-metric-images-prod/b91b6c0af7c345ebb45b34bfddc64243",
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/7c90e093e4fb496bb32ff47fa4ad0fec",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/7d821a919b1d41d2bd09b8c4c84f17c7",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d35e591b6ce24fbb8c1829a4c8ad28cf",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "9c67c1b94e5d4ad5a1cbe439ac62eb75",
+      "bio": "Equal parts athleticism, discipline and adventure, Irène radiates a light powered by every experience that’s led her to Peloton. Growing up in Germany, Irène took dance as a way to explore her passion for movement, and through years of living, working and exploring in South Africa, she learned how to connect with people on a transformative level. Because of Irène’s diverse pursuits in fitness, business and wellness, she is a compassionate yet technical instructor, who will empower you to work hard, love hard and put yourself first. Irène is based in our London studio, and teaches in German.",
+      "short_bio": "",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 21,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/IreneScholzPeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:playlist:70xdPC8wLROJ7Bt7WALuVo",
+      "background": "I feel inspired when you chase your goals, no matter how much you fall along the way. What matters is that you keep going. We are all on a journey, and together we can create the strongest and healthiest version of ourselves.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Like surfing, there will be days when you catch waves like a hero and days when you paddle for nothing. What matters is that you tried. I always want you to feel proud that you showed up for yourself—no matter what."
+        ],
+        [
+          "Outside of Peloton",
+          "I love to be outdoors! When I’m not on the Bike, I'm running, playing volleyball, lifting, hiking and finding ways new to stay balanced. "
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "“Strong mind, strong body.”",
+      "username": "coachirene",
+      "name": "Irène Scholz",
+      "first_name": "Irène",
+      "last_name": "Scholz",
+      "user_id": "6dba0ec094364e959674501dce56678c",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e9c3a068b1b942cdac6937b2fe9ca0cb",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/220549e0dcd84135965c563a4c577050",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/395ca0f812ff488aa7b65a300e721aa4",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/dd5a2d3d655c410a92afa6da0e3cb5f6",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/af888565faa94a55a9cb4731db44d715",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/1eb921df7de84a5d9c4b22652878fe11",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/3993e49c7b1f4e4b8418e0cd654c0dd2",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/86e7c62fff0b4cb982d3919e7327d6e2",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "51702da3a4684b988d31d89eebb43175",
+      "bio": "Jenn Sherman took her first indoor cycling class more than a decade ago and was instantly hooked. As Peloton’s very first cycling instructor, Jenn came to NYC from her hometown in New Jersey, where she’d been selling out studios for years. Jenn brings a focused intensity to every class she teaches, showing Members what they’re made of with her empowering playlists you just can’t help but sing along to.",
+      "short_bio": "\"JFDI!!! Or (JUST F**KING DO IT) No excuses. Simple, direct and to the point. Just like ME!\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 22,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/jennshermanfitness/",
+      "music_bio": "Check out a sample of Jenn's current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6xr8u8YUdmvG8vfaEWkCXK",
+      "background": "Being able to make a difference in people’s lives is the inspiration. I draw from the strength, motivation and the incredible energy I receive every day from my riders.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "Leave the bulls**t outside the door and take this window of time for YOU. Walk in ready to work hard, sweat hard, sing hard and leave the room feeling empowered by what you just accomplished."
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "I am the mom to two teenagers, who are the center of my world. When I’m not running in circles with my family, I can be found relaxing at the beach with friends, or working on my next killer playlist.\r\n"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "JFDI!!! Or (JUST F**KING DO IT) No excuses. Simple, direct and to the point. Just like ME!",
+      "username": "JennSherman",
+      "name": "Jenn Sherman",
+      "first_name": "Jenn",
+      "last_name": "Sherman",
+      "user_id": "13ae7df2790d48fc9aac5ec797e069f1",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4db9cd5452864380af6b62f3408d1de0",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3fbb8ef7af7c4e6aa578ea06f8ec1653",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f9e29f7e64a345928cefb01f619e3f8b",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/827c941e1896422d9f6677ef1619a51b",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d3b576fe8e284ef6b60709ff0238fc6e",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/3ae8f02786cf4b8dbc0a731715969770",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/efce036dcd484a1c9bdaef6f90072c4f",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3ce55f78e66f4f5f9b6c305d4bff67cb",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "1b79e462bd564b6ca5ec728f1a5c2af0",
+      "bio": "Jess has been an athlete and leader her whole life. As a 3-year captain of her college basketball team, she motivated others through her own actions, leading her to amazing places off the court. Jess began her professional career as a school teacher who fearlessly opened new schools in underserved neighborhoods in Boston and NYC. After years in academics, Jess realized she was missing her athletic roots, and decided to leave school teaching to go back to the subject she’s most passionate about: fitness.",
+      "short_bio": "“You don’t have to, you get to.”",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 23,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4f3KDfyuj5ews71k7835hc?si=oCcOJxTyQfWb_29t8WJcaA",
+      "background": "I want everyone to feel like an athlete while working out, so I coach in the mindset of being in a game. I love mental breakthroughs because when we get out of our own way, out of our own head, that’s where magic happens.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Some say my style of teaching incorporates a little bit of “tough love.” I expect a lot, but I also support a lot. Remember what you want most, and forget about what you want now."
+        ],
+        [
+          "Outside of Peloton",
+          "Outside the studio, I love boxing, lifting, going to new coffee shops in the city and spending time with my three pitbulls! I am also super excited to start training for some road races in 2019."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "You don’t have to, you get to.",
+      "username": "jesssims",
+      "name": "Jess Sims",
+      "first_name": "Jess",
+      "last_name": "Sims",
+      "user_id": "b922a9b8f6be49e8b72b7dbf5506f088",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/be995523106844bf905aa1346a83dc99",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/9cd5b7f2ed1a40ba956abe1530031bfd",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1a0f037184e642c9be0a5ae48ddcb997",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ff558441a03e415ebae50e508168cd98",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5ca932cf447347c9b5485bf09e58602e",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ecb3c81a92c14f858f0905152dc38d2c",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/6295b402c40c469ea164e574ce875464",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2ac5e567c000417091d713932b4fecce",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "048f0ce00edb4427b2dced6cbeb107fd",
+      "bio": "Jess is a charismatic instructor with a boundless energy and passion for movement. With a background in dance, performance and fitness, Jess grew up down South and moved to NYC to commit to a career in wellness. Jess’s self-proclaimed sassy and spicy personality make her Peloton classes uplifting and full of exciting surprises. Jess is committed to helping people heal from the inside out, and she believes that the Peloton Bike is the perfect place to start that journey. Her focus is to partner with motivated individuals looking to transform their lives — and together, they burn.",
+      "short_bio": "\"I am the magma from the Earth’s core that ignites the fire of transformation in myself and others.\"\r\n",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 24,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/jesskingfitness/",
+      "music_bio": "Check out a sample of Jess's current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:395EUHdMxn1TCwI1G5yWHk",
+      "background": "Sweat is the special sauce that bridges the gap between our inner and outer worlds. I approach every ride as an opportunity to change my life. We are transforming together, in real time.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "I lead from the perspective that you are whole now, and everything you need to get through the ride, your day, or whatever you’re confronting, is already inside of you."
+        ],
+        [
+          "Outside of Peloton",
+          "I have a customized wellness transformation program called MindFULL3 centered around nourishment, movement and process. Through conversation and communal support, we help you design the life you were meant to lead."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "I am the magma from the Earth’s core that ignites the fire of transformation in myself and others.",
+      "username": "JessicaKing",
+      "name": "Jess King",
+      "first_name": "Jess",
+      "last_name": "King",
+      "user_id": "7ec21aa09c254638a6fa36e47e5dd12d",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/504c95bf2f7a4fa9a0aa93dcc59ce6d5",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fe75a4ff50034cb28fbba68d078af2ef",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c63a41b76cf1403ba436cad25db56162",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/92100e680ddb41cfa850d7e162a889d6",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f94160a5f6e14445840c8f60b5f86ae8",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/aa8620e6ff6b431b9ba4999697be9ab1",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/79eee02695b54c23ab1cf0f5055de6b1",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0a3fb295ac8149b4bf4dc64a2603ea10",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "4904612965164231a37143805a387e40",
+      "bio": "Kendall is a natural-born fighter who empowers you to find your voice and believe in your inner strength. Kendall is a dynamic athlete, with a background in professional cheerleading, gymnastics, dance and boxing. After college, Kendall began what she believed would be a dream job at a tech startup, but soon realized the culture wasn’t the right fit for her. To cope, Kendall began boxing, where she discovered that her true calling is empowering others to break down barriers through movement and sweat. In her classes, Kendall uses the power of positive energy and rock 'n' roll to inspire you to rise up and discover your highest self.",
+      "short_bio": "Kendall is a natural-born fighter who empowers you to believe in your inner strength. As a dynamic athlete, coach and creative, Kendall uses the power of positive energy to inspire you to rise up and commit to your highest self. ",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 25,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "",
+      "background": "My goal is to help you discover your power. We have a choice when it comes to listening to the voice in our heads: it holds us back or helps us rise up. It just depends on how we train it.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "POSITIVE ENERGY! What we put out in the world comes back to us, so there is no time for negativity. We are all in this together for support and accountability, and I hope you enter my class feeling curious and proud."
+        ],
+        [
+          "Outside of Peloton",
+          "I am a boxer at heart and have been learning the art for over 7 years. Rock ‘n’ roll seeps through my soul, especially the classics, so you can also find me listening to vinyl or scrounging up tickets to a show. "
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Rise up and greet your higher self",
+      "username": "kmoneyNYC",
+      "name": "Kendall Toole",
+      "first_name": "Kendall",
+      "last_name": "Toole",
+      "user_id": "d7833badf6694abfafd92fe1dd51c12e",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5d34ae7f03794b30b7e6b68374c8fbd4",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/6312d386e064462e97ed8775e78bc063",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/dd19df34c0d04cf685e44db2ab67e248",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fb0c6a5efaa142aba993047915423174",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/63cd471dddd6423294737112b32a8b78",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ac7613daf3ad4c148bc9c0ebf111266a",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e3cf2cd1902e411d98983686af639483",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/bb032c53ecc946ada7188e79db031d32",
+      "fitness_disciplines": [
+        "strength",
+        "cycling",
+        "cardio",
+        "stretching"
+      ]
+    },
+    {
+      "id": "f48347e0fb3748c08aa6c6e031b48897",
+      "bio": "Growing up in a small town Idaho, Kristin had big dreams of pursuing dance and acting in New York, but ended up as one of the most sought after and recognized yoga instructors in the city. Throughout her career, Kristin has been a pioneer in making yoga more accessible. Kristin has starred in yoga DVD’s, has privately trained celebrities and has written books about the value of the yoga in everyday life. As a busy mom of three boys, Kristin strongly believes that just a few minutes of yoga a day can bring more balance and harmony to your life. Kristin’s classes will challenge and ground you while bringing a strong connection back to your mind, body and breath.",
+      "short_bio": "Everything you could possibly ever want, have or need is right here inside of you.",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 26,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:33N2utzoJNkIVYt7Rgx2Xp",
+      "background": "I really love to make yoga accessible and fun! I help people find a good flow, I love to play a great soundtrack, I like to sneak in alignment cues while keeping the pace moving. A downdog a day keeps the doctor away!",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I motivate with a smile on my face! I keep you feeling good about yourself and your body while you move through challenging poses. I want you to discover how much more you can accomplish in everything you do."
+        ],
+        [
+          "Outside of Peloton",
+          "I'm originally from Pocatello, Idaho so I love to ski! I also love to camp, hike and spend time outdoors in nature. I love the gym and pushing myself and discovering more about my body."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Everything you could possibly ever want, have or need is right here inside of you.",
+      "username": "krimcgee",
+      "name": "Kristin McGee",
+      "first_name": "Kristin",
+      "last_name": "McGee",
+      "user_id": "559223b8027549009562ae50287afb11",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b8e1d620cfae40c6b8b8be066581e315",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/76573e5c4ae6431fadd6d8e9597750b1",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f4714063306042bdaabadc5bb595df8c",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b02c533ee1794656901edcb1955dde0d",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/15f5dc37622841519397c27119f11fa9",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/6d54438a2ecf41429caf0719a0e85ae7",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/0c500f3bc9974002a554b31ac42c22be",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/02e0a05edad14704a48753f52aa83a3e",
+      "fitness_disciplines": [
+        "meditation",
+        "yoga"
+      ]
+    },
+    {
+      "id": "c0a9505d8135412d824cf3c97406179b",
+      "bio": "Leanne is a former professional dancer turned fitness enthusiast who is passionate about movement and self-expression. Leanne has danced since the age of 3, and has worked her way on stage with some of the best-known artists in the world like Taylor Swift, Kylie Minogue and Katy Perry. Leanne’s style of teaching motivates you to step up, and step outside of your comfort zone. She believes that growth comes from areas of discomfort, and through her guidance and support, she’ll get you to the finish line with a smile on your face. Leanne is based in the UK and teaches live from our London studio.",
+      "short_bio": "Sweat, smile, repeat! ",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 27,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4Zezzm44QXh20RqWGkGVBC",
+      "background": "I have been dancing since a very young age, so expressing myself unapologetically through music and movement is second nature. I can’t wait to channel this energy and connect with you in this way on the Bike.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I believe that music is what drives us, so I plan to curate meaningful playlists that will push and uplift you. I want you to feel supported but pushed so you get the most out of your time with me."
+        ],
+        [
+          "Outside of Peloton",
+          "I love seeing new parts of the world, attending music festivals and rounding out my training through yoga and boxing. I’m always looking for a good piece of pizza or a green juice. Life’s all about balance!"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Sweat, smile, repeat! ",
+      "username": "danceonbike_uk",
+      "name": "Leanne Hainsby",
+      "first_name": "Leanne",
+      "last_name": "Hainsby",
+      "user_id": "913618e33a3f4d7ea69983b9c4524677",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/dd6e6cd9f29e42499d375d967b14ddea",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e3a83db6bb9d4f6797d720a8aacb2f23",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/114e3cd5e68040d1892176c64fd6d5fd",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/686885e1e0ef467fa451aedcd78e8ea4",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/065e607d145944309aef36f99a0e7a68",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ab975ef0b69d4aeebd53c935dbbcb1e2",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e4463bde2ad04e14b25497046359f8b2",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/22168b69a8f2481a89b4b2d0b59d4c94",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "304389e2bfe44830854e071bffc137c9",
+      "bio": "A former Division I distance runner with 10 years of coaching experience, Matt brings an encouraging energy grounded in athleticism to his teaching style. An avid cyclist, runner and traveler, Matt inspires Members to discover how strong they really are, and how fun training can be.",
+      "short_bio": "\"Train hard, train smart, and have fun!\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 28,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/MWPeloton/",
+      "music_bio": "Check out a sample of Matt’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:2EonpjYpcEf7rr9OHjKvfO",
+      "background": "My passion is to help people. Nothing gets me more excited than helping my athletes achieve the results that they’ve dreamed of.\r\n",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "My goal is to make performance training fun! Members should come to class ready to work, and also have a good time doing it. \r\n"
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "Believe it or not, more fitness! Cycling, running and lifting are my favorites. I also enjoy traveling, and reading about fitness and business.\r\n"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Train hard, train smart, and have fun!\r\n",
+      "username": "grannyriri",
+      "name": "Matt Wilpers",
+      "first_name": "Matt",
+      "last_name": "Wilpers",
+      "user_id": "8fea80fa0f8a401c9f159ce630baabdd",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/9d8e442a15e1462aacc69e55195a9af3",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3666aab052c540e290b15652017a27c4",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0543f41cf3344514b53a312e6f7af680",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f4b313d80bef41d0a15e3c91ac1b1840",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1828d7105e1f4f44b8a95fe316405357",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/10eb0f9c5beb4f97a12e25299caf362a",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/eb715881febd4bd3846d798f5b8f7f6c",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1e3a29a20af64ce7b366f4c77bc54084",
+      "fitness_disciplines": [
+        "running",
+        "cycling",
+        "circuit"
+      ]
+    },
+    {
+      "id": "a606b2c39c194bcc80f9a541b97b4537",
+      "bio": "Matty joins the Tread team eager to bring his passion for fitness and his high-energy, entertaining teaching style to the Peloton community. A born entertainer, former television reporter and pop culture guru, Matty loves to bring the party to every workout. He lives with his partner, Aaron and English Bulldog, Luther in Long Island City.",
+      "short_bio": "\"Welcome to the Body Party!\" #mattysbodyparty",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 29,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/MattyMaggiacomoPeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:2Idu6jcBmA09UouFeGoW6q?si=T1gwfaioThSeHi9YyoT6Ow",
+      "background": "",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I make it a party! I don’t believe that we need to suffer through our workouts. While it may not always be easy or comfortable, you’re going to be addicted to the way you feel after you’ve taken a class with me."
+        ],
+        [
+          "Outside of Peloton",
+          "I watch entirely too much TV for a person who chose fitness as a career, but I promise, I’m a fitness freak! I’m also a wanderluster, theater queen, and “house head.” Odds are good I’ll probably retire on a bulldog farm."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Welcome to the Body Party! #mattysbodyparty",
+      "username": "mattymaggiacomo",
+      "name": "Matty Maggiacomo",
+      "first_name": "Matty",
+      "last_name": "Maggiacomo",
+      "user_id": "55a543e4af764a74b6c44a939af78271",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/bce4ff667f414255af6b013839f75d80",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/6fce07f0dc234956ba610c8fb5496749",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a976768828cd462fa8a4f4855e306f60",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/860d2a7f51ab44daaa307906380c7693",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/beb2a65d009141e5abae96490112eb60",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/8a43ed6043394a9e9de2839db5840240",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/b8f67ac9153f40b19ba6e3de2aa48af9",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2c398bcb7c514981b3e95f03f7b5dd6e",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "6e05a16be51b48dd894fad0b54ac2052",
+      "bio": "Fitness has been a part of Oliver’s life ever since he learned how to count while watching his dad do pushups at the gym. Oliver worked in London for five years as a personal trainer, and moved to New York City in 2016 to become a bootcamp instructor alongside fellow Peloton Tread instructors Rebecca Kennedy and Matty Maggiacomo. Oliver is a compassionate and charming instructor who connects with Members at every stage of their fitness journey. In classes that are accessible and easy to follow, Oliver channels his own hard work and commitment into an empathetic approach to teaching. Whether you’re pushing through challenges or celebrating a milestone, he’ll be there! ",
+      "short_bio": "\"Failure is not falling down, but refusing to get back up.’’ We keep trying no matter what, and nothing can stop us!",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 30,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/oliverleepeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:5EXPAfLxvXgV8ZSi2XqwbR?si=JuC2oahESfqMelDYBnxolQ",
+      "background": "My approach to teaching has always been: have fun! Exercise is such a wonderful thing to be able to do, and seeing people happy and proud of what they have achieved while working out with me inspires me every day to keep teaching.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I want Members to feel inspired during class, because they see me working just as hard as they are. I want them to know that I’m also feeling the burn, and we’re in it together!"
+        ],
+        [
+          "Outside of Peloton",
+          "I absolutely love learning about new cultures, so traveling is one of my favorite things to do. I’m also a total family man, so spending time with my family is very important to me."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Failure isn't falling down, but refusing to get back up. We keep trying no matter what, and nothing can stop us!",
+      "username": "Oliver__L",
+      "name": "Oliver Lee",
+      "first_name": "Oliver",
+      "last_name": "Lee",
+      "user_id": "5f8091a06c044df39c1800ad91fb2fd5",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5774a104bcb3461199b3815a2767235b",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fb57f28fbb1c4824b8720b9ee7486b1d",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c6a0eb3c8e3943e9bed4e1bd6ef91e88",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8cc80a05409848d88d76229e2365ce5e",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f008b3c5e41c49dea1c0352700418bc7",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/18e92ef19edc4d119c8f60a4b333b85f",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/1ab28ccc7b6341d6ae9eacdcda703d57",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b0cc0e636f61422a9aacf3582a98d4d3",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "05735e106f0747d2a112d32678be8afd",
+      "bio": "Born and raised in New York, Olivia grew up playing and excelling at team sports, including lacrosse, field hockey, cheerleading and track. With a professional background in finance, as well as boxing and cycling, she brings a we-first, cheerleader approach to every class, inspiring you to leave each workout walking taller and feeling stronger. ",
+      "short_bio": "“Decide what you want to accomplish, and I will help you conquer it.”",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 31,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/OliviaAmatoPeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6eHoh1Sp7T9nc5lFSA5rW1?si=0Gwb9YlCQA-reLgA4cwinA",
+      "background": "We’re gonna work, and we’re gonna work hard. Know that I’m in this with you every step of the way. I’m a natural cheerleader, and when we workout together, we’re a team. I will always have your back, no matter how challenging things get! ",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I like to lead by example. By staying with you throughout class, I can show you that sometimes, all it takes is getting out of your own way to accomplish your goals. You’re going to love the way you feel when we’re done!"
+        ],
+        [
+          "Outside of Peloton",
+          "My first word was doggy, so you can imagine what my favorite animal is! I also love fashion, family, skincare, being outdoors, and being a crazy plant lady. "
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "“Decide what you want to accomplish, and I will help you conquer it.”",
+      "username": "liv_amato",
+      "name": "Olivia Amato",
+      "first_name": "Olivia",
+      "last_name": "Amato",
+      "user_id": "9ac4103069284724b054ca26f066e9f0",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d18003b575274c5d89bf0de59ac600f9",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1362633e6ee24c1680fc8328eb070a86",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a3b0e0876d2740639fa5517ed23fae57",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/def7a0b5494048fc99fff948c094cea7",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8707d2315f154958be8c91776fedf20a",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/3311a18a7b2e49c5b0ba9f0ecf6d3967",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/aa98ce5316614aa081ba0d4c6c647d19",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/55a6d573f93a48b99ececbd1e9f87b54",
+      "fitness_disciplines": [
+        "running",
+        "cycling",
+        "circuit"
+      ]
+    },
+    {
+      "id": "efd71bafb8c544e98a8d3882531f2976",
+      "bio": "Rebecca’s background in dance, gymnastics and track & field laid a foundation for movement and body awareness that she brings to every Tread class. As a former bootcamp instructor, a Nike master trainer and much more, Rebecca aims to make every workout the best part of the day by celebrating movement and empowering through positivity.",
+      "short_bio": "\"Always do your best, relentlessly.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 32,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/RKpeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6SnRNueIy6J3vS4BO7aRbm?si=5tJAL2AxTGGOOySEJTTqtg",
+      "background": "Celebrating movement is the most liberating and charitable thing we can do for ourselves. My goal is to create a moment in everyone’s day that excites them to get moving and enjoy the body they are living in.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Movement is power. I’m here to empower you to do your best, every day. Challenges are not roadblocks, they’re reminders that we are stronger and more capable than we imagined, so rise up!"
+        ],
+        [
+          "Outside of Peloton",
+          "I love to cook and travel! Adventure is in my blood. I love diving into culture by meeting new people, trying local food, recreating recipes from afar, conquering my fears, catching sunsets, and climbing mountains."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Always do your best, relentlessly.",
+      "username": "rebeccakennedy",
+      "name": "Rebecca Kennedy",
+      "first_name": "Rebecca",
+      "last_name": "Kennedy",
+      "user_id": "fd71c6191e8c41fbaecdae683f7150c2",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/02f98951502144fe92bb3f44553ad536",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2924f76168164a39af4000f50b4c5b24",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/79e4fd999abf478b839edf4c2c117a98",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ea4435a036334c008c443d51b596d836",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3f6ce3d1e39943c398ba9bcd87c571e5",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/b1df2dd6000d48cbb4bf0fb9aded5db4",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/d2a68bb4a376450b93355dc167778ffd",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d0b9e086843349639e4c86df484adcb3",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "c406f36aa2a44a5baf8831f8b92f6920",
+      "bio": "Peloton’s VP of Fitness Programming, Robin believes that sweat transforms lives. Her journey to Peloton came after she literally ran herself out of a successful law career. Robin is passionate about guiding Members past their limitations and excuses with inspiring, authentic anecdotes. Author of the New York Times bestseller Shut Up and Run, Robin is a RRCA-certified running coach and ultramarathoner. Her life’s mission is to redefine and rethink possibility through movement.",
+      "short_bio": "\"We don’t do basic.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 33,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/robin.arzon/",
+      "music_bio": "Ready to ride? Check out a sample of Robin's current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:1QhVyCiL5OZNMU8zpIQwPP",
+      "background": "A life lived in sweat is my mission. Every day, I work hard planting seeds for tomorrow’s greatness. The hustle in me honors the hustle in you.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "With a heavy dose of tough love because iron sharpens iron. The pride of hard work lasts longer than the discomfort. And no matter what, just keep showing up."
+        ],
+        [
+          "Outside of Peloton",
+          " Always searching for the next best sweat, you can catch me adding up miles and increasing reps around New York City and beyond."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "We don’t do basic.\r\n",
+      "username": "robin",
+      "name": "Robin Arzon",
+      "first_name": "Robin",
+      "last_name": "Arzon",
+      "user_id": "102b025fb7b8451b8cc07d7d88e87377",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/1cf71afa881f4050ba2b0445a6e0c95b",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/db441c61718a4aa39c40f0262f663441",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/542f40f9285a4c3da09af9466a720cd3",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4b64870961b2493aa29e2950a7713519",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/98f012dc8a774a6a92f45c26d208a643",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/a37777697dc242d28e34c15d9dc63239",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/9b6ce75e228442ba9274e32508c32f4c",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/49323204770e42a08c7e9866f6334c91",
+      "fitness_disciplines": [
+        "running",
+        "cycling",
+        "circuit"
+      ]
+    },
+    {
+      "id": "a4b1a372a14a442cb2d729dc34bd2596",
+      "bio": "Ross first discovered yoga after experiencing a sports-related injury over 20 years ago. At the time, he was barely flexible enough to touch his toes! He soon discovered the healing and transformative properties of yoga and decided to commit to the practice fully. Ross became a scholar of physical healing, diving deep into biomechanics and the inner workings of the human body. Ross has traveled to more than 30 countries to teach, and loves connecting people with diverse backgrounds through yoga. In his classes, Ross invites Members to tap into their authentic selves through movement, exploring the strength of the human spirit along the way.",
+      "short_bio": "",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 34,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:2wAjdh0buJtoASu6VxJLtm?si=hMD9bMd1Qg68pAMfWFHFKA",
+      "background": "I love yoga because it allows me to experience the world through a uniquely philosophical lens. I love to learn and absorb the different ways to approach yoga and feel most fulfilled when serving or healing others.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "We’ve all been through challenging or painful experiences in life, but by turning inwards to explore our human spirit, we can recognize that we’re incredibly powerful beings and can accomplish anything we work towards."
+        ],
+        [
+          "Outside of Peloton ",
+          "I love to travel, and for 30 years I’ve been a certified scuba diver. I’m also a big theater buff. So much so, that I married a theater director! I’m always surrounded by incredibly talented singers and dancers."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "The human spirit is stronger than we know. Trust it.  ",
+      "username": "texcany",
+      "name": "Ross Rayburn",
+      "first_name": "Ross",
+      "last_name": "Rayburn",
+      "user_id": "0b7e394a5ac04e8ea060453e4d20e80f",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/145fc78905624cfe8587b51054a10b6c",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/936a8a8883c14c39bf4f4dd3f07f3a24",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/64872272c8fe4b58a1cf2694cc8c2bad",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/cc72914520e5482d9c1e72e4a40510e3",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/05ff010483f94ccd856c69eaf28a6b7e",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/98141cd287e04a5288ff3ed63d1d2c69",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/d332eeaa6d4645b3855c86fe2eaae36f",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2ba95444097641f3a99693ccf92ea2d0",
+      "fitness_disciplines": [
+        "meditation",
+        "yoga"
+      ]
+    },
+    {
+      "id": "4672db841da0495caf4b8f9cda405512",
+      "bio": "Sam is a pro at many things but shines when it comes to motivating Members to reach their best. From the ring to the dance floor, theatre to the music room, he’s spent his life studying his two passions: fitness and the arts. After 20 years in entertainment and 15 years in fitness, Sam is ready to challenge you to go further with a perfect balance of showmanship and hustle. Sam is based in the UK and teaches live rides from our London studio.",
+      "short_bio": "lorem ipsome",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 35,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "https://open.spotify.com/playlist/1sfYpKnldALEVJcYkBREQL?si=ef34m3uBSP6PwWy9lbxU1A",
+      "background": "I’m a student of many different disciplines, as I know we all learn and absorb in different ways. Expect a mix of technical training, showmanship and a dash of serenity to help push you. ",
+      "ordered_q_and_as": [
+        [
+          "How do you motivate?",
+          "I encourage Members to remember, “Why am I here?” That motivation is the element that gets us started, keeps us going and makes us want to come back for more. "
+        ],
+        [
+          "Outside of Peloton",
+          "I’m a huge film, theatre and comic buff! So you will definitely catch me at a musical, at the movies or on the couch catching up with a drama or comedy series. \r\n"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "“Bring it. Build it. Become it.”",
+      "username": "stest",
+      "name": "Sam Yo",
+      "first_name": "Sam",
+      "last_name": "Yo",
+      "user_id": "716fbfbf70a644a4abbb77d37f00a574",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/c6bbc14b553643299227616abd313f83",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a299daca83b74a6fa45326003b4ff229",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ca8f5e3f200d455caf6a9af2dfcb6909",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3591c3b7b7d142c69c302d2edbeefbf5",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/fc452163352a466c91a8dcc26e9a182d",
+      "jumbotron_url": "https://s3.amazonaws.com/workout-metric-images-prod/92b1b1aaadf64d3ab9bfb5495cdc5986",
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/3bbb673b7a3d438791c4b10945c9bcfd",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e077e7a077d7450e867c9adf15869d5d",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/00741f10410f47e0a1b913c4ac50c4eb",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "040ab78d62a74cfc9954c0e320815993",
+      "bio": "Selena is a unique combination of an Italian upbringing and a Hawaiian state of mind. Raised in Italy in a family of professional soccer players, sports were a way of life. When she moved to Hawaii for college, she developed a passion for surfing and for the spiritual side of fitness. Relocating to NYC, she channeled this into a career training as an amateur boxer and teaching boxing. Selena brings an empowering energy to Peloton, teaching Members how to tap into themselves to unleash their power, and accomplish goals they never thought they could achieve.",
+      "short_bio": "\"DREAM IT. BELIEVE IT. RECEIVE IT.\"  ",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 36,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/selenasamuelapeloton/",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4rctq1ZntzALoXQcvQ731i?si=jXMAhn4ZQJeotwx-V2D-Eg",
+      "background": "I believe we’re all capable of great things and that we all have that fire burning inside us. I want to share the things that have helped me access that fire, and that’s exactly what I get to do on the Peloton Tread!",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I want Members to know that I’ve got their back, always. Every day we can push ourselves to new standards, get a little stronger, run a little faster, have a little more heart and show a little more power."
+        ],
+        [
+          "Outside of Peloton",
+          "Outside of Peloton you can find me on a surfboard or in boxing gloves. There is nothing quite like the feeling of being in perfect harmony with mother nature."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "DREAM IT. BELIEVE IT. RECEIVE IT.",
+      "username": "selenasamuela1",
+      "name": "Selena Samuela",
+      "first_name": "Selena",
+      "last_name": "Samuela",
+      "user_id": "0d886fa01c3f400b89d5918072223dba",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a34d261fa7ae49b3a2ccbeab3c864d65",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0b5053adaddc4599b980028784b181df",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/5a655d25fe1f4184b9f4dd33aec894e6",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/043e67f77f3a444d8d5300111de752eb",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/09507fdbe0a740848a1b227ee57b3e4d",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/f1b04d4ab539438490883b222adeeec8",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/9dc744cd189143deab44bdcb4a3f9f0f",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0ce077e5b91e4d1e905eb33c90eac8c2",
+      "fitness_disciplines": [
+        "running",
+        "circuit"
+      ]
+    },
+    {
+      "id": "c9bd86e59b9b4f96981848467838aa9c",
+      "bio": "Tunde’s mission is to inspire and motivate other people to believe in the impossible. After years of struggling with her weight and self-confidence, Tunde fell in love with fitness and the doors it opened for her. Through a career as a celebrity makeup artist and brand educator, she discovered that she had a knack for teaching others to feel empowered and strong. Tunde brings an unparalleled positive energy to the Bike, fueled by personal experiences, perseverance and powerful playlists. There’s no doubt you’ll leave her classes feeling on top of the world. ",
+      "short_bio": "Tunde’s mission is to inspire and motivate other people to believe in the impossible. After overcoming challenging life experiences, Tunde radiates positivity and perseverance from the inside out.",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 37,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "",
+      "background": "I focus on crafting my classes with music that drives you. This rush of adrenaline allows you to move past the expectations or limitations you showed up with that day. Beyond that, I will always push you, but never let you fall. ",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I motivate from experience. I'm on a forever journey, and have been in your shoes before. I will always push you, because I know you can come up from where you are, even if you haven’t fully realized it yet. "
+        ],
+        [
+          "Outside of Peloton",
+          "I’m from Texas, so Tex-Mex and margaritas have a special place in my heart. The beach is my happy place, laughing is my favorite thing to do and I’ll never turn down the chance to strut across a dance floor! "
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Embrace the beauty of uncertainty. It’s a place of infinite possibility.",
+      "username": "nyhustle",
+      "name": "Tunde Oyeneyin",
+      "first_name": "Tunde",
+      "last_name": "Oyeneyin",
+      "user_id": "326a4fda216b45c6b028cb97c552496f",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/7b50a2a4993049ab849cc5e292584ba7",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8b586f0ad08b4d8a86f8830c9f26322f",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0e6e4e0465cc411a89ad3465bbe20b05",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/bcabb57a25a84462a50b7907bc2bf185",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/2ea104ad84b64d3b9a27e7748c7ca1a7",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/2b54892b79494495a4541e3fc2c7d6a6",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/92bc662d7d3a45aeb44c136d483d35ae",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/24d850fbf8ef420992d12a14a1ca6d7d",
+      "fitness_disciplines": [
+        "strength",
+        "cycling",
+        "cardio",
+        "stretching"
+      ]
+    },
+    {
+      "id": "35016225e39d46dbbc364991ab48e10f",
+      "bio": "Christian Vande Velde is a former American professional cyclist who most recently rode for Slipstream Sports/Team Garmin-Sharp. Christian's impressive palmarès from his time at Slipstream include: 2008 Team Time Trial victory at the Giro d’Italia, where he become only the second American ever to don the coveted maglia rosa; 2011 Tour de France Team Time Trial win and Best Team victory; two-time top 10 Overall Tour de France finisher (2008 and 2009); 2012 overall win at the USA Pro Cycling Challenge. Christian retired from racing in 2013 and is currently a commentator for NBC and NBCSN.",
+      "short_bio": "Christian Vande Velde is a member of the Team Garmin-Sharp Professional Cycling Team.",
+      "coach_type": "pro_cyclist",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 38,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "",
+      "background": "",
+      "ordered_q_and_as": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "",
+      "username": "ChristianVV",
+      "name": "Christian Vande Velde",
+      "first_name": "Christian",
+      "last_name": "Vande Velde",
+      "user_id": "f9d3ca99fd5148dd89ecd7aa47bdb1c3",
+      "life_style_image_url": null,
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/8d8b7c65555e4405869bc0f3ce283456",
+      "ios_instructor_list_display_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/80084037ecfd4672bdf46ffd3dd1b364",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/46dfc9bd00a84434ac58b6f060433025",
+      "image_url": "https://workout-metric-images-prod.s3.amazonaws.com/e92a4616ae3f4ee3837a710facd34369",
+      "jumbotron_url": "https://workout-metric-images-prod.s3.amazonaws.com/9cb76ea0a5144c679098efd5bb4cf00e",
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/cffce86861464d04b209b91af4cd7aa6",
+      "jumbotron_url_ios": "https://workout-metric-images-prod.s3.amazonaws.com/51bdb0b8a3f44eb09519166893bb4036",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/7d3a4a1bddc345e2b3deb80dfa434df6",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "02cfc2cb8e6646d5a4138cf82ce1be89",
+      "bio": "Colleen Saidman Yee, whom the New York Times dubbed “The First Lady of Yoga” in 2013, brings 3 decades of experience to Peloton’s first-ever yoga programming. She opened her flagship studio, Yoga Shanti, in 1999 and, alongside her husband Rodney, partnered with Donna Karan to create Urban Zen’s Integrative Yoga Therapist Program. As both an international fashion model and widely revered yogi, she has been featured in Cosmopolitan, Vanity Fair, Oprah, and the Wall Street Journal, amongst others. In 2015, she published Yoga for Life: A Journey to Inner Peace and Freedom. Colleen lives in Sag Harbor, NY and is the proud mother of four children.",
+      "short_bio": "Colleen Saidman Yee, whom the New York Times dubbed “The First Lady of Yoga” in 2013, brings 3 decades of experience to Peloton’s first-ever yoga programming.",
+      "coach_type": "guest_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 39,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "",
+      "background": "",
+      "ordered_q_and_as": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "",
+      "username": "CollyWolly",
+      "name": "Colleen Saidman Yee",
+      "first_name": "Colleen",
+      "last_name": "Saidman Yee",
+      "user_id": "bc67efcb41644012a7a730efc9433ca7",
+      "life_style_image_url": null,
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/a231687fc3c8455ca3cf6197b3848de1",
+      "ios_instructor_list_display_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/d31ce3066ae041bb9511816576ebfb1f",
+      "about_image_url": null,
+      "image_url": "https://workout-metric-images-prod.s3.amazonaws.com/047190ef8fe64e59a9bf8cb641b3d206",
+      "jumbotron_url": "https://workout-metric-images-prod.s3.amazonaws.com/606bcba06a13486d87805d902cb41cf2",
+      "jumbotron_url_dark": "https://workout-metric-images-prod.s3.amazonaws.com/5053593c630b45bfb2d35ba088c89942",
+      "jumbotron_url_ios": "https://workout-metric-images-prod.s3.amazonaws.com/1022666f5d2d4cd9be358b3f692c0267",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://workout-metric-images-prod.s3.amazonaws.com/fd9db07636584ac0ac527103217d8a52",
+      "fitness_disciplines": [
+        "beyond_the_ride"
+      ]
+    }
+  ]
+}
