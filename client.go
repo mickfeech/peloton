@@ -9,6 +9,7 @@ import (
 	"fmt"
 	"github.com/go-resty/resty/v2"
 	"github.com/mickfeech/peloton/models"
+	"log"
 	"os"
 )
 
@@ -34,7 +35,8 @@ func NewApiClient(username string, password string) *ApiClient {
 		Post("/auth/login")
 	if err != nil || resp.IsError() {
 		if err != nil {
-			fmt.Printf("There was an error %v", err)
+			log.Fatal(err)
+			return nil
 		}
 	}
 	return &ApiClient{Client: client}

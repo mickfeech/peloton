@@ -17,6 +17,14 @@ var _ = Describe("ApiClient", func() {
 	BeforeEach(func() {
 		defer gock.Off()
 	})
+	Describe(".NewApiClient", func() {
+		It("Will not have a cookie set with a blank username and password", func() {
+			Expect(client.Client.Cookies).To(BeEmpty())
+		})
+		It("Will not return nil", func() {
+			Expect(client.Client).NotTo(BeNil())
+		})
+	})
 	Describe(".Instructors()", func() {
 		BeforeEach(func() {
 			testData, err := ioutil.ReadFile("testdata/instructors.json")
