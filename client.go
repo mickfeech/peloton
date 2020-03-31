@@ -15,19 +15,11 @@ import (
 // Default URL for all API requests
 const defaultBaseURL = "https://api.onepeloton.com"
 
-// PelotonClient struct is used to create a resty client client
-type PelotonClient struct {
-	client *resty.Client
+type ApiClient struct {
+	Client *resty.Client
 }
 
-// Error struct to return messages from resty client
-type Error struct {
-	Code    string `json:"error_code,omitempty"`
-	Message string `json:"error_message,omitempty"`
-}
-
-// NewPelotonClient method creates a new client using the resty package
-func NewPelotonClient(username string, password string) *PelotonClient {
+func NewApiClient(username string, password string) *ApiClient {
 	client := resty.New()
 	client.SetDebug(false)
 	apiURL := os.Getenv("API_ADDR")
@@ -35,7 +27,6 @@ func NewPelotonClient(username string, password string) *PelotonClient {
 		apiURL = defaultBaseURL
 	}
 	client.SetHostURL(apiURL)
-	client.SetError(&Error{})
 	auth := fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)
 	authData := []byte(auth)
 	resp, err := client.R().
@@ -44,12 +35,12 @@ func NewPelotonClient(username string, password string) *PelotonClient {
 	if err != nil || resp.IsError() {
 		fmt.Println("There was an error")
 	}
-	return &PelotonClient{client: client}
+	return &ApiClient{Client: client}
 }
 
 // Me method creates a request to retrieve data about the current user
-func (c *PelotonClient) Me() (*models.User, error) {
-	resp, err := c.client.R().
+func (c *ApiClient) Me() (*models.User, error) {
+	resp, err := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.User{}).
 		Get("/api/me")
@@ -60,8 +51,8 @@ func (c *PelotonClient) Me() (*models.User, error) {
 }
 
 // Instructors method creates a request to retrieve data about the instructors
-func (c *PelotonClient) Instructors() (*models.Instructors, error) {
-	resp, err := c.client.R().
+func (c *ApiClient) Instructors() (*models.Instructors, error) {
+	resp, err := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.Instructors{}).
 		Get("/api/instructor")
