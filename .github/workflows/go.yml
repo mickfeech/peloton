@@ -36,7 +36,7 @@ jobs:
             dep ensure
           fi
       - name: Test
-        run: go test -race -coverprofile=coverage.txt -covermode=atomic
+        run: go test -r -race -coverprofile=coverage.txt -covermode=atomic
       - name: Upload Coverage
         run: bash <(curl -s https://codecov.io/bash)
   build:
