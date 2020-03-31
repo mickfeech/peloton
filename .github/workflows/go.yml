@@ -39,8 +39,7 @@ jobs:
         run: |
           go get github.com/onsi/ginkgo/ginkgo
           go get github.com/onsi/gomega/...
-          find / -name ginkgo
-          ginkgo -r -coverprofile=coverage.txt -covermode=atomic -race
+          /home/runner/go/bin/ginkgo -r -coverprofile=coverage.txt -covermode=atomic -race
       - name: Upload Coverage
         run: bash <(curl -s https://codecov.io/bash)
   build:
