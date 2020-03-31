@@ -28,9 +28,14 @@ var _ = Describe("ApiClient", func() {
 				Get("/api/instructor").
 				Reply(200).
 				JSON(testData)
+			gock.InterceptClient(client.Client.GetClient())
+		})
+
+		It("Should not return an error", func() {
+			_, err := client.Instructors()
+			Expect(err).To(BeNil())
 		})
 		It("Returns a count of instructors", func() {
-			gock.InterceptClient(client.Client.GetClient())
 			m, _ := client.Instructors()
 			Expect(m.Total).To(Equal(34))
 		})
@@ -46,12 +51,23 @@ var _ = Describe("ApiClient", func() {
 				Get("/api/me").
 				Reply(200).
 				JSON(testData)
-		})
-
-		It("Returns a first name", func() {
 			gock.InterceptClient(client.Client.GetClient())
+		})
+		It("Should not return an error", func() {
+			_, err := client.Me()
+			Expect(err).To(BeNil())
+		})
+		It("Returns a first name", func() {
 			m, _ := client.Me()
 			Expect(m.FirstName).To(Equal("John"))
+		})
+		It("Returns a last name", func() {
+			m, _ := client.Me()
+			Expect(m.LastName).To(Equal("Doe"))
+		})
+		It("Returns a username", func() {
+			m, _ := client.Me()
+			Expect(m.Username).To(Equal("jdoe"))
 		})
 	})
 })
