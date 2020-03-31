@@ -33,7 +33,9 @@ func NewApiClient(username string, password string) *ApiClient {
 		SetBody(authData).
 		Post("/auth/login")
 	if err != nil || resp.IsError() {
-		fmt.Println("There was an error")
+		if err == nil {
+			fmt.Printf("There was an error %v", err)
+		}
 	}
 	return &ApiClient{Client: client}
 }
