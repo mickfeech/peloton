@@ -17,7 +17,7 @@ func TestPeloton(t *testing.T) {
 }
 
 var _ = BeforeSuite(func() {
-	client = peloton.NewApiClient("", "")
+	client, _ = peloton.NewApiClient("", "")
 })
 
 var _ = BeforeEach(func() {

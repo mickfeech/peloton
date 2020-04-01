@@ -20,7 +20,7 @@ type ApiClient struct {
 	Client *resty.Client
 }
 
-func NewApiClient(username string, password string) *ApiClient {
+func NewApiClient(username string, password string) (*ApiClient, error) {
 	client := resty.New()
 	client.SetDebug(false)
 	apiURL := os.Getenv("API_ADDR")
@@ -36,10 +36,9 @@ func NewApiClient(username string, password string) *ApiClient {
 	if err != nil || resp.IsError() {
 		if err != nil {
 			log.Fatal(err)
-			return nil
 		}
 	}
-	return &ApiClient{Client: client}
+	return &ApiClient{Client: client}, err
 }
 
 // Me method creates a request to retrieve data about the current user
