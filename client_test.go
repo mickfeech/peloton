@@ -1,4 +1,4 @@
-package peloton
+package peloton_test
 
 import (
 	"fmt"
@@ -9,43 +9,12 @@ import (
 )
 
 var _ = Describe("ApiClient", func() {
-	var client *ApiClient
-
-	BeforeSuite(func() {
-		client = NewApiClient("", "")
-	})
-	BeforeEach(func() {
-		defer gock.Off()
-	})
 	Describe(".NewApiClient", func() {
 		It("Will not have a cookie set with a blank username and password", func() {
 			Expect(client.Client.Cookies).To(BeEmpty())
 		})
 		It("Will not return nil", func() {
 			Expect(client.Client).NotTo(BeNil())
-		})
-	})
-	Describe(".Instructors()", func() {
-		BeforeEach(func() {
-			testData, err := ioutil.ReadFile("testdata/instructors.json")
-			if err != nil {
-				fmt.Printf("Error: %v", err)
-				Fail("Error retrieving json test data")
-			}
-			gock.New("https://api.onepeloton.com").
-				Get("/api/instructor").
-				Reply(200).
-				JSON(testData)
-			gock.InterceptClient(client.Client.GetClient())
-		})
-
-		It("Should not return an error", func() {
-			_, err := client.Instructors()
-			Expect(err).To(BeNil())
-		})
-		It("Returns a count of instructors", func() {
-			m, _ := client.Instructors()
-			Expect(m.Total).To(Equal(34))
 		})
 	})
 	Describe(".Me()", func() {
