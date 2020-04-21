@@ -60,7 +60,7 @@ func (c *ApiClient) Instructors() (*models.Instructors, error) {
 }
 
 // Workouts method creates a request to retrieve workout data by userid
-func (c *ApiClient) UserWorkouts(userid string) (*models.Workouts, error) {
+func (c *ApiClient) GetUserWorkouts(userid string) (*models.Workouts, error) {
 	workoutUrl := fmt.Sprintf("/api/user/%s/workouts", userid)
 	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
