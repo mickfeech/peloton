@@ -51,7 +51,7 @@ func (c *ApiClient) Me() (*models.User, error) {
 }
 
 // Instructors method creates a request to retrieve data about the instructors
-func (c *ApiClient) Instructors() (*models.Instructors, error) {
+func (c *ApiClient) GetInstructors() (*models.Instructors, error) {
 	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.Instructors{}).
