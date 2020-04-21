@@ -61,10 +61,20 @@ func (c *ApiClient) GetInstructors() (*models.Instructors, error) {
 
 // Workouts method creates a request to retrieve workout data by userid
 func (c *ApiClient) GetUserWorkouts(userid string) (*models.Workouts, error) {
-	workoutUrl := fmt.Sprintf("/api/user/%s/workouts", userid)
+	userWorkoutUrl := fmt.Sprintf("/api/user/%s/workouts", userid)
 	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.Workouts{}).
-		Get(workoutUrl)
+		Get(userWorkoutUrl)
 	return resp.Result().(*models.Workouts), nil
+}
+
+// Get specific workout details
+func (c *ApiClient) GetWorkoutDetails(workoutId string, interval string) (*models.WorkOutDetails, error) {
+	workoutDetailUrl := fmt.Sprintf("/api/workout/%s/performance_graph?every_n=%s", workoutId, interval)
+	resp, _ := c.Client.R().
+		SetHeader("Accept", "application/json").
+		SetResult(&models.WorkOutDetails{}).
+		Get(workoutDetailUrl)
+	return resp.Result().(*models.WorkOutDetails), nil
 }
