@@ -8,6 +8,7 @@ Peloton API Go Client
 
 * Get data about user as struct
 * Get data about instructors as struct
+* Get data about user workouts
 
 ## Usage
 
