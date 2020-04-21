@@ -23,11 +23,11 @@ var _ = Describe("Instructors Model", func() {
 	})
 
 	It("Should not return an error", func() {
-		_, err := client.Instructors()
+		_, err := client.GetInstructors()
 		Expect(err).To(BeNil())
 	})
 	It("Returns a count of instructors", func() {
-		m, _ := client.Instructors()
+		m, _ := client.GetInstructors()
 		Expect(m.Total).To(Equal(34))
 	})
 })

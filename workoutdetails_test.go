@@ -10,27 +10,23 @@ import (
 
 var _ = Describe("Workouts Model", func() {
 	BeforeEach(func() {
-		testData, err := ioutil.ReadFile("testdata/workouts.json")
+		testData, err := ioutil.ReadFile("testdata/workoutdetail.json")
 		if err != nil {
 			fmt.Printf("Error: %v", err)
 			Fail("Error retrieving json test data")
 		}
 		gock.New("https://api.onepeloton.com").
-			Get("/api/user/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/workouts").
+			Get("/api/workout/f813e2143150469c9aed108a40ca61ef/performance_graph").
 			Reply(200).
 			JSON(testData)
 		gock.InterceptClient(client.Client.GetClient())
 	})
 	It("Should not return an error", func() {
-		_, err := client.GetUserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+		_, err := client.GetWorkoutDetails("f813e2143150469c9aed108a40ca61ef", "5")
 		Expect(err).To(BeNil())
 	})
-	It("Returns a count of workouts", func() {
-		m, _ := client.GetUserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
-		Expect(m.Count).To(Equal(20))
-	})
-	It("Returns a data of workouts", func() {
-		m, _ := client.GetUserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
-		Expect(m.Data).NotTo(Equal(nil))
+	It("Should not return an error", func() {
+		m, _ := client.GetWorkoutDetails("f813e2143150469c9aed108a40ca61ef", "5")
+		Expect(m.Duration).To(Equal(900))
 	})
 })
