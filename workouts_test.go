@@ -22,15 +22,15 @@ var _ = Describe("Workouts Model", func() {
 		gock.InterceptClient(client.Client.GetClient())
 	})
 	It("Should not return an error", func() {
-		_, err := client.Workouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+		_, err := client.UserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 		Expect(err).To(BeNil())
 	})
 	It("Returns a count of workouts", func() {
-		m, _ := client.Workouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+		m, _ := client.UserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 		Expect(m.Count).To(Equal(20))
 	})
 	It("Returns a data of workouts", func() {
-		m, _ := client.Workouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+		m, _ := client.UserWorkouts("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 		Expect(m.Data).NotTo(Equal(nil))
 	})
 })
