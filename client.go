@@ -10,6 +10,7 @@ import (
 	"github.com/go-resty/resty/v2"
 	"github.com/mickfeech/peloton/models"
 	"log"
+	"net/http"
 	"os"
 )
 
@@ -20,32 +21,34 @@ type ApiClient struct {
 	Client   *resty.Client
 	Username string
 	Password string
+	Cookie   *http.Cookie
 }
 
 func NewApiClient(args ...interface{}) (*ApiClient, error) {
 	client := resty.New()
-	client.SetDebug(false)
 	apiURL := os.Getenv("API_ADDR")
 	if apiURL == "" {
 		apiURL = defaultBaseURL
 	}
 	var username string
 	var password string
-
 	if len(args) == 2 {
 		for i, arg := range args {
 			switch i {
-			case 0: //username
-				username, _ = arg.(string)
-			case 1: //password
-				password, _ = arg.(string)
+			case 0:
+				username = arg.(string)
+			case 1:
+				password = arg.(string)
 			}
 		}
 	}
 	client.SetHostURL(apiURL)
-	auth := fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)
-	authData := []byte(auth)
-	resp, err := client.R().
+	cookie, _ := GetAuthCookie(client, []byte(fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)))
+	return &ApiClient{Client: client, Username: username, Password: password, Cookie: cookie}, nil
+}
+
+func GetAuthCookie(c *resty.Client, authData []byte) (*http.Cookie, error) {
+	resp, err := c.R().
 		SetBody(authData).
 		Post("/auth/login")
 	if err != nil || resp.IsError() {
@@ -53,7 +56,13 @@ func NewApiClient(args ...interface{}) (*ApiClient, error) {
 			log.Fatal(err)
 		}
 	}
-	return &ApiClient{Client: client, Username: username, Password: password}, err
+	var authCookie *http.Cookie
+	for _, cookie := range resp.Cookies() {
+		if cookie.Name == "peloton_session_id" {
+			authCookie = cookie
+		}
+	}
+	return authCookie, nil
 }
 
 // Me method creates a request to retrieve data about the current user
