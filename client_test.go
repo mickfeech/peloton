@@ -16,6 +16,16 @@ var _ = Describe("ApiClient", func() {
 		It("Will not return nil", func() {
 			Expect(client.Client).NotTo(BeNil())
 		})
+		It("Allows you to re-set username", func() {
+			client.Username = "TestUser"
+			Expect(client.Username).To(Equal("TestUser"))
+			Expect(client.Username).NotTo(Equal(""))
+		})
+		It("Allows you to re-set password", func() {
+			client.Password = "TestPass"
+			Expect(client.Password).To(Equal("TestPass"))
+			Expect(client.Password).NotTo(Equal(""))
+		})
 	})
 	Describe(".Me()", func() {
 		BeforeEach(func() {
