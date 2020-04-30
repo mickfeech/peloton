@@ -17,15 +17,30 @@ import (
 const defaultBaseURL = "https://api.onepeloton.com"
 
 type ApiClient struct {
-	Client *resty.Client
+	Client   *resty.Client
+	Username string
+	Password string
 }
 
-func NewApiClient(username string, password string) (*ApiClient, error) {
+func NewApiClient(args ...interface{}) (*ApiClient, error) {
 	client := resty.New()
 	client.SetDebug(false)
 	apiURL := os.Getenv("API_ADDR")
 	if apiURL == "" {
 		apiURL = defaultBaseURL
+	}
+	var username string
+	var password string
+
+	if len(args) == 2 {
+		for i, arg := range args {
+			switch i {
+			case 0: //username
+				username, _ = arg.(string)
+			case 1: //password
+				password, _ = arg.(string)
+			}
+		}
 	}
 	client.SetHostURL(apiURL)
 	auth := fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)
@@ -38,7 +53,7 @@ func NewApiClient(username string, password string) (*ApiClient, error) {
 			log.Fatal(err)
 		}
 	}
-	return &ApiClient{Client: client}, err
+	return &ApiClient{Client: client, Username: username, Password: password}, err
 }
 
 // Me method creates a request to retrieve data about the current user
