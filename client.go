@@ -17,6 +17,7 @@ import (
 // Default URL for all API requests
 const defaultBaseURL = "https://api.onepeloton.com"
 
+// APIClient to allow updates to the client instance
 type ApiClient struct {
 	Client   *resty.Client
 	Username string
@@ -24,6 +25,7 @@ type ApiClient struct {
 	Cookie   *http.Cookie
 }
 
+// instantiate a new instance of the API client
 func NewApiClient(args ...interface{}) (*ApiClient, error) {
 	client := resty.New()
 	apiURL := os.Getenv("API_ADDR")
@@ -43,11 +45,13 @@ func NewApiClient(args ...interface{}) (*ApiClient, error) {
 		}
 	}
 	client.SetHostURL(apiURL)
-	cookie, _ := GetAuthCookie(client, []byte(fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password)))
+	cookie, _ := GetAuthCookie(client, username, password)
 	return &ApiClient{Client: client, Username: username, Password: password, Cookie: cookie}, nil
 }
 
-func GetAuthCookie(c *resty.Client, authData []byte) (*http.Cookie, error) {
+// GetAuthCookie method to set the peloton_session_id cookie
+func GetAuthCookie(c *resty.Client, username string, password string) (*http.Cookie, error) {
+	authData := []byte(fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password))
 	resp, err := c.R().
 		SetBody(authData).
 		Post("/auth/login")
