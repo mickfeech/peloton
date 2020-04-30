@@ -21,7 +21,7 @@ var _ = BeforeSuite(func() {
 	client, _ = peloton.NewApiClient("", "")
 	cookie := &http.Cookie{
 		Name:     "peloton_session_id",
-		Value:    "1b2448ae7cf64f48b68ee34d3d031115",
+		Value:    "ffffffffffffffffffffffffffffffff",
 		Path:     "/",
 		Domain:   "onepeloton.com",
 		MaxAge:   36000,
