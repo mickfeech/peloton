@@ -27,6 +27,30 @@ var _ = Describe("ApiClient", func() {
 			Expect(client.Password).NotTo(Equal(""))
 		})
 	})
+	Describe(".SetUserName()", func() {
+		AfterEach(func() {
+			client.Username = ""
+		})
+		It("Should return nil", func() {
+			Expect(client.SetUserName("Test")).To(BeNil())
+		})
+		It("Should set the username in the client", func() {
+			client.SetUserName("Test")
+			Expect(client.Username).To(Equal("Test"))
+		})
+	})
+	Describe(".SetPasword()", func() {
+		AfterEach(func() {
+			client.Password = ""
+		})
+		It("Should return nil", func() {
+			Expect(client.SetPassword("Password")).To(BeNil())
+		})
+		It("Should set the password in the client", func() {
+			client.SetPassword("Test")
+			Expect(client.Password).To(Equal("Test"))
+		})
+	})
 	Describe(".Me()", func() {
 		BeforeEach(func() {
 			testData, err := ioutil.ReadFile("testdata/me.json")
