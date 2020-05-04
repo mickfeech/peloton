@@ -45,12 +45,12 @@ func NewApiClient(args ...interface{}) (*ApiClient, error) {
 		}
 	}
 	client.SetHostURL(apiURL)
-	cookie, _ := GetAuthCookie(client, username, password)
+	cookie, _ := GetInitialAuthCookie(client, username, password)
 	return &ApiClient{Client: client, Username: username, Password: password, Cookie: cookie}, nil
 }
 
 // GetAuthCookie method to set the peloton_session_id cookie
-func GetAuthCookie(c *resty.Client, username string, password string) (*http.Cookie, error) {
+func GetInitialAuthCookie(c *resty.Client, username string, password string) (*http.Cookie, error) {
 	authData := []byte(fmt.Sprintf("{\"username_or_email\": \"%v\", \"password\": \"%v\"}", username, password))
 	resp, err := c.R().
 		SetBody(authData).
@@ -67,6 +67,13 @@ func GetAuthCookie(c *resty.Client, username string, password string) (*http.Coo
 		}
 	}
 	return authCookie, nil
+}
+
+// Update AuthCookie from client
+func (c *ApiClient) UpdateAuthCookie() (*http.Cookie, error) {
+	cookie, _ := GetInitialAuthCookie(c.Client, c.Username, c.Password)
+	c.Cookie = cookie
+	return cookie, nil
 }
 
 // Me method creates a request to retrieve data about the current user
