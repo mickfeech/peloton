@@ -113,15 +113,3 @@ func (c *ApiClient) GetWorkoutDetails(workoutId string, interval string) (*model
 		Get(workoutDetailUrl)
 	return resp.Result().(*models.WorkOutDetails), nil
 }
-
-// SetUsername in the APIClient struct
-func (c *ApiClient) SetUserName(username string) error {
-	c.Username = username
-	return nil
-}
-
-// SetPassword in the APIClient struct
-func (c *ApiClient) SetPassword(password string) error {
-	c.Password = password
-	return nil
-}
