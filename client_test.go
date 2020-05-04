@@ -6,6 +6,8 @@ import (
 	. "github.com/onsi/gomega"
 	"gopkg.in/h2non/gock.v1"
 	"io/ioutil"
+	"net/http"
+	"reflect"
 )
 
 var _ = Describe("ApiClient", func() {
@@ -25,6 +27,13 @@ var _ = Describe("ApiClient", func() {
 			client.Password = "TestPass"
 			Expect(client.Password).To(Equal("TestPass"))
 			Expect(client.Password).NotTo(Equal(""))
+		})
+	})
+	Describe("UpdateAuthCookie", func() {
+		It("Returns a cookie", func() {
+			cookie, _ := client.UpdateAuthCookie()
+			var httpCookie *http.Cookie
+			Expect(reflect.TypeOf(cookie)).To(Equal(reflect.TypeOf(httpCookie)))
 		})
 	})
 	Describe(".Me()", func() {
