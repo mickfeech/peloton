@@ -1,0 +1,2546 @@
+{
+  "total": 4,
+  "count": 4,
+  "sort_by": "scheduled_start_time",
+  "data": [
+    {
+      "id": "d7fca24717014685aa9461d8b64e147a",
+      "ride_id": "6228e8bfda184914b38138cd8ea463d1",
+      "server_time": 1588688433,
+      "scheduled_start_time": 1588690800,
+      "start_time": 1588690800,
+      "end_time": 1588692772,
+      "pedaling_start_time": 1588690860,
+      "pedaling_end_time": 1588692660,
+      "status": "PRE_START",
+      "countdown": null,
+      "is_live": true,
+      "is_studio": false,
+      "is_encore": true,
+      "seconds_since_start": null,
+      "created_at": 1588348968,
+      "total_workouts": 0,
+      "is_complete": false,
+      "total_home_reservations": 395,
+      "authed_user_reservation_id": null
+    },
+    {
+      "id": "3f1f7d8f862445f794f3acf196107065",
+      "ride_id": "e2e9a5618ea94274850a4e29b630dea3",
+      "server_time": 1588688433,
+      "scheduled_start_time": 1588692900,
+      "start_time": 1588692900,
+      "end_time": 1588694266,
+      "pedaling_start_time": 1588692960,
+      "pedaling_end_time": 1588694160,
+      "status": "PRE_START",
+      "countdown": null,
+      "is_live": true,
+      "is_studio": false,
+      "is_encore": true,
+      "seconds_since_start": null,
+      "created_at": 1588348982,
+      "total_workouts": 0,
+      "is_complete": false,
+      "total_home_reservations": 306,
+      "authed_user_reservation_id": null
+    },
+    {
+      "id": "4e9f1fe9376c4a59b85c4857ace6072c",
+      "ride_id": "60bb7eda6d3841b9b24d4a695d3dbe14",
+      "server_time": 1588688433,
+      "scheduled_start_time": 1588694400,
+      "start_time": null,
+      "end_time": null,
+      "pedaling_start_time": null,
+      "pedaling_end_time": null,
+      "status": "PRE_START",
+      "countdown": null,
+      "is_live": true,
+      "is_studio": false,
+      "is_encore": false,
+      "seconds_since_start": null,
+      "created_at": 1588349128,
+      "total_workouts": 0,
+      "is_complete": false,
+      "total_home_reservations": 6357,
+      "authed_user_reservation_id": null
+    },
+    {
+      "id": "60ef99ea2ada4536a8b6558c61a09ea5",
+      "ride_id": "70dee24cd2b7482eb38ee452595e3841",
+      "server_time": 1588688433,
+      "scheduled_start_time": 1588696500,
+      "start_time": 1588696500,
+      "end_time": 1588696814,
+      "pedaling_start_time": 1588696501,
+      "pedaling_end_time": 1588696801,
+      "status": "PRE_START",
+      "countdown": null,
+      "is_live": true,
+      "is_studio": false,
+      "is_encore": true,
+      "seconds_since_start": null,
+      "created_at": 1588348996,
+      "total_workouts": 0,
+      "is_complete": false,
+      "total_home_reservations": 760,
+      "authed_user_reservation_id": null
+    }
+  ],
+  "equipment": [
+    {
+      "id": "3a3481407b87484c94401682bf57e079",
+      "name": "Yoga Blanket",
+      "slug": "yoga_blanket",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/yoga_blanket.png"
+    },
+    {
+      "id": "55af6ecd1d424af19935d7b7a185c797",
+      "name": "Yoga Block",
+      "slug": "yoga_block",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/yoga_block.png"
+    },
+    {
+      "id": "e093f0a995b74d1a8e8a2e20fb945a2c",
+      "name": "Yoga Strap",
+      "slug": "yoga_strap",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/yoga_strap.png"
+    },
+    {
+      "id": "6f27a3628335430a9ef6bfeabea0ddc3",
+      "name": "Bolster",
+      "slug": "yoga_bolster",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/yoga_bolster.png"
+    },
+    {
+      "id": "40c4af6388b2411e88c3078c547a8892",
+      "name": "Heavy Weights",
+      "slug": "heavy_weights",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/heavy_weights.png"
+    },
+    {
+      "id": "48a006862b2045e38027868aaf4525bd",
+      "name": "Workout Mat",
+      "slug": "workout_mat",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/workout_mat.png"
+    },
+    {
+      "id": "0f5f1ff2d6c647cf98d599ed90ad72d3",
+      "name": "Light Weights",
+      "slug": "light_weights",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/light_weights.png"
+    },
+    {
+      "id": "2955e6543fc44899ae6c9a88f2fce9a2",
+      "name": "Medium Weights",
+      "slug": "medium_weights",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/medium_weights.png"
+    },
+    {
+      "id": "50e4f8361aa644639fb313dfd6c6fe59",
+      "name": "Resistance Band",
+      "slug": "resistance_band",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/resistance_band.png"
+    },
+    {
+      "id": "ec4c1963d79b477bbda674319d43f759",
+      "name": "Yoga Mat",
+      "slug": "yoga_mat",
+      "icon_url": "https://s3.amazonaws.com/static-cdn.pelotoncycle.com/equipment-icons/yoga_mat.png"
+    }
+  ],
+  "instructors": [
+    {
+      "id": "2e57092bee334c8c8dcb9fe16ba5308c",
+      "bio": "Alex Toussaint has a love for fitness, teamwork and discipline rooted in his military school background. With his eye always on the prize, Alex uses the power of positivity to motivate Members to confront their limitations and push past them. In his class, you can expect a well-structured ride, and to walk out feeling his mantra in your bones: “Feel good, look good, do better.” ",
+      "short_bio": "\"Feel good. Look good. Do better! \r\n… Trust the Process!\"\r\n",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 8,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/alextoussaintfitness/",
+      "music_bio": "Check out a sample of Alex’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:77bxh3Xw9h5tHOrNv5Zkj7",
+      "background": "I approach all my classes like it might be my last one. Watching Members become the best version of themselves truly inspires me to give it my all every ride I teach.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Using my military background, I push my Members to their full potential at all times. I want Members to approach my workout like an athlete, and leave feeling like a champion.\r\n"
+        ],
+        [
+          "Outside of Peloton",
+          "When I’m off the Bike I’m on the basketball court or gym. Fitness isn't just my hobby, it’s my life!"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Feel good. Look good. Do better! \r\n… Trust the Process!",
+      "username": "AlexToussaint",
+      "name": "Alex Toussaint",
+      "first_name": "Alex",
+      "last_name": "Toussaint",
+      "user_id": "f42d9968258c4877b8aea54cbe51ad77",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ed338e46f7e746409a7e0a2d28ddedda",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/43350a0e581d45f0bf1a98f18f26b637",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/8af7ac20ff26473093c47c84c71c7894",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a914e36fa78046bd9d078352831ddad9",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/108e25fac8a04d709c61e7df39a0d5d6",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/b5e3da85050748368eee9aeaa5a96ac3",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e4c30e1a1f094271bf65369af0206fe0",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/10e643fc3b7b44928e3c97a372322874",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "51702da3a4684b988d31d89eebb43175",
+      "bio": "Jenn Sherman took her first indoor cycling class more than a decade ago and was instantly hooked. As Peloton’s very first cycling instructor, Jenn came to NYC from her hometown in New Jersey, where she’d been selling out studios for years. Jenn brings a focused intensity to every class she teaches, showing Members what they’re made of with her empowering playlists you just can’t help but sing along to.",
+      "short_bio": "\"JFDI!!! Or (JUST F**KING DO IT) No excuses. Simple, direct and to the point. Just like ME!\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 22,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/jennshermanfitness/",
+      "music_bio": "Check out a sample of Jenn's current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6xr8u8YUdmvG8vfaEWkCXK",
+      "background": "Being able to make a difference in people’s lives is the inspiration. I draw from the strength, motivation and the incredible energy I receive every day from my riders.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "Leave the bulls**t outside the door and take this window of time for YOU. Walk in ready to work hard, sweat hard, sing hard and leave the room feeling empowered by what you just accomplished."
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "I am the mom to two teenagers, who are the center of my world. When I’m not running in circles with my family, I can be found relaxing at the beach with friends, or working on my next killer playlist.\r\n"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "JFDI!!! Or (JUST F**KING DO IT) No excuses. Simple, direct and to the point. Just like ME!",
+      "username": "JennSherman",
+      "name": "Jenn Sherman",
+      "first_name": "Jenn",
+      "last_name": "Sherman",
+      "user_id": "13ae7df2790d48fc9aac5ec797e069f1",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4db9cd5452864380af6b62f3408d1de0",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3fbb8ef7af7c4e6aa578ea06f8ec1653",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f9e29f7e64a345928cefb01f619e3f8b",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/827c941e1896422d9f6677ef1619a51b",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/d3b576fe8e284ef6b60709ff0238fc6e",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/3ae8f02786cf4b8dbc0a731715969770",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/efce036dcd484a1c9bdaef6f90072c4f",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/3ce55f78e66f4f5f9b6c305d4bff67cb",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "561f95c405734d8488ed8dcc8980d599",
+      "bio": "Hannah grew up in Portland, Oregon and came to New York City to dance. She is passionate about guiding others’ fitness journeys and watching them evolve. A kick-your-butt drill sergeant, fiery New York dancer and a West Coast flower child all at once, Hannah is dedicated to a teaching style that empowers people to appreciate how strong they are, and how to protect that strength with stretching when they hop off the Bike and head out into the world.",
+      "short_bio": "\"You are a rockstar. Treat yourself accordingly.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 19,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/HMCfitness/",
+      "music_bio": "Check out a sample of Hannah’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:69cHIGdppTnVnzUcuYCoSX",
+      "background": "Wanna hear a joke? Thinking you have limits. I teach for that moment when you realize what I've known from the start: you can do this, and you're stronger than you know.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "Treat your body like it belongs to someone you love. Admire your strength, and take time to recover. And always ask yourself, #didyoustretchtho?"
+        ],
+        [
+          "Outside of Peloton",
+          "I'm on a quest to hang upside down from every ceiling on silks, hug every tree in the Northeast, and dance down every street in Manhattan."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "You are a rockstar. Treat yourself accordingly.",
+      "username": "HMC_NYC",
+      "name": "Hannah Marie Corbin",
+      "first_name": "Hannah",
+      "last_name": "Marie Corbin",
+      "user_id": "a213ad5794894088aabb71cbc063474b",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/9d0066f93a904eac94ddbac2a4361047",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/20b1f67a097a48be9885bba1ebd0c243",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/b467763e3d074ee9a6145278899393c8",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/4d4edaced3064a4495ab3dd415b4b271",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/89edbd70efa446999ae4c48ef8717aed",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ce64efae82eb46078a8f412e559050c3",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/660f94de4b1f4e30831f1b8ede81c71c",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e4217aa062594255a53351fc82651677",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "5a19bfe66e644a2fa3e6387a91ebc5ce",
+      "bio": "Christine D’Ercole is a decorated track cyclist who brings this expertise to every Peloton class. Grounded in science, music, grit and grace, Christine believes that at all times you have two tools at your disposal: your breath and your inner monologue. In her class, you can expect Christine to empower Members to break through self-imposed limitations, and embrace their authentic selves and strength, both on and off the Bike.",
+      "short_bio": "\"I AM. I CAN. I WILL. I DO.\"",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 14,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "https://www.facebook.com/christinedercolefitness/",
+      "music_bio": "Check out a sample of Christine’s current class playlist.",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:6fPb995k5AVky3GV5Xbcy0",
+      "background": "My classes are grounded in science, grit and grace. I will give you structured formats rooted in 20 years of competitive cycling experience set to playlists that push you farther than you thought possible.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?\r\n",
+          "Every class is an opportunity to put something across the finish line and make yourself proud. By showing up, turning it up and not giving up, we practice real-life skills that translate off the Bike."
+        ],
+        [
+          "Outside of Peloton\r\n",
+          "BIKE RACING!, Wordshop™, writing, cooking, fine wine, scuba diving and photography."
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "I AM. I CAN. I WILL. I DO.",
+      "username": "IAMICANIWILLIDO",
+      "name": "Christine D'Ercole",
+      "first_name": "Christine",
+      "last_name": "D'Ercole",
+      "user_id": "2897f20a1bd04b1697b8dde6d5392b1d",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/a1f82585a7c8432e8a92e4afd29aa961",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/542f2a9ddf554517b5886fd433093388",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/f2903d655edd4198bc77de3f2cda5918",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/0129302fb9d64324847a71b6a4e8a208",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/ae9583fbef064dce92b91b5c6e3034eb",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/c8f89880c74a4afb8a68c2807e86b615",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/6aa4953fbafd423689315986f5bc5fc1",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/241fbdbcb01848dd8ee3141bae1322ef",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    },
+    {
+      "id": "c0a9505d8135412d824cf3c97406179b",
+      "bio": "Leanne is a former professional dancer turned fitness enthusiast who is passionate about movement and self-expression. Leanne has danced since the age of 3, and has worked her way on stage with some of the best-known artists in the world like Taylor Swift, Kylie Minogue and Katy Perry. Leanne’s style of teaching motivates you to step up, and step outside of your comfort zone. She believes that growth comes from areas of discomfort, and through her guidance and support, she’ll get you to the finish line with a smile on your face. Leanne is based in the UK and teaches live from our London studio.",
+      "short_bio": "Sweat, smile, repeat! ",
+      "coach_type": "peloton_coach",
+      "is_filterable": true,
+      "is_visible": true,
+      "list_order": 27,
+      "featured_profile": true,
+      "film_link": "",
+      "facebook_fan_page": "",
+      "music_bio": "",
+      "spotify_playlist_uri": "spotify:user:onepeloton:playlist:4Zezzm44QXh20RqWGkGVBC",
+      "background": "I have been dancing since a very young age, so expressing myself unapologetically through music and movement is second nature. I can’t wait to channel this energy and connect with you in this way on the Bike.",
+      "ordered_q_and_as": [
+        [
+          "How Do You Motivate?",
+          "I believe that music is what drives us, so I plan to curate meaningful playlists that will push and uplift you. I want you to feel supported but pushed so you get the most out of your time with me."
+        ],
+        [
+          "Outside of Peloton",
+          "I love seeing new parts of the world, attending music festivals and rounding out my training through yoga and boxing. I’m always looking for a good piece of pizza or a green juice. Life’s all about balance!"
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "instagram_profile": "",
+      "strava_profile": "",
+      "twitter_profile": "",
+      "quote": "Sweat, smile, repeat! ",
+      "username": "danceonbike_uk",
+      "name": "Leanne Hainsby",
+      "first_name": "Leanne",
+      "last_name": "Hainsby",
+      "user_id": "913618e33a3f4d7ea69983b9c4524677",
+      "life_style_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/dd6e6cd9f29e42499d375d967b14ddea",
+      "bike_instructor_list_display_image_url": null,
+      "web_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/e3a83db6bb9d4f6797d720a8aacb2f23",
+      "ios_instructor_list_display_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/114e3cd5e68040d1892176c64fd6d5fd",
+      "about_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/686885e1e0ef467fa451aedcd78e8ea4",
+      "image_url": "https://s3.amazonaws.com/workout-metric-images-prod/065e607d145944309aef36f99a0e7a68",
+      "jumbotron_url": null,
+      "jumbotron_url_dark": "https://s3.amazonaws.com/workout-metric-images-prod/ab975ef0b69d4aeebd53c935dbbcb1e2",
+      "jumbotron_url_ios": "https://s3.amazonaws.com/workout-metric-images-prod/e4463bde2ad04e14b25497046359f8b2",
+      "web_instructor_list_gif_image_url": null,
+      "instructor_hero_image_url": "https://s3.amazonaws.com/workout-metric-images-prod/22168b69a8f2481a89b4b2d0b59d4c94",
+      "fitness_disciplines": [
+        "cycling"
+      ]
+    }
+  ],
+  "ride_types": [
+    {
+      "id": "a5953fd181914f4eb69e755e1fefffce",
+      "name": "Family Cardio",
+      "display_name": "Family",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 1
+    },
+    {
+      "id": "1fef162e27b4413facff77cc7f766ced",
+      "name": "Dance Cardio",
+      "display_name": "Dance Cardio",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 2
+    },
+    {
+      "id": "6590f6042e8e4d1d8c2f3f1a73cf1729",
+      "name": "Theme (Bootcamp)",
+      "display_name": "Theme",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 3
+    },
+    {
+      "id": "b0a7fc01affb4249aca872a046c6a344",
+      "name": "Bodyweight (Bootcamp)",
+      "display_name": "Bodyweight",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 4
+    },
+    {
+      "id": "209458d0f8c84614aa96537f7fff403f",
+      "name": "Walking Bootcamp",
+      "display_name": "Low Impact",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 5
+    },
+    {
+      "id": "3c65fba3c4a64e2db9a12776e09bc883",
+      "name": "Body Focus (Bootcamp)",
+      "display_name": "Body Focus",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 6
+    },
+    {
+      "id": "b70f0feabd7043cfa1c5f7e9f73b43d5",
+      "name": "Heart Rate Bootcamp",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 7
+    },
+    {
+      "id": "919794060b734915b13ddee4e7e39084",
+      "name": "Running Skills",
+      "display_name": "Running Skills",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 8
+    },
+    {
+      "id": "c0681493aaeb4029b01f64a6c9ff3e0e",
+      "name": "Warm Up/Cool Down Running",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 9
+    },
+    {
+      "id": "feda7eed0d8247f2868314eaa74f37fd",
+      "name": "Fun Run",
+      "display_name": "Fun Run",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 10
+    },
+    {
+      "id": "19efefbcf7394ff8bac0ac89a674c545",
+      "name": "Endurance",
+      "display_name": "Endurance",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 11
+    },
+    {
+      "id": "a81cd52ccc3140edb1fbf28dbf880791",
+      "name": "Speed Running",
+      "display_name": "Speed",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 12
+    },
+    {
+      "id": "e2a1f782a89e45abacd962f5aa105990",
+      "name": "Intervals Running",
+      "display_name": "Intervals",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 13
+    },
+    {
+      "id": "85724534f42b490ca1c4fdd4c4d35cf1",
+      "name": "Heart Rate Running",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 14
+    },
+    {
+      "id": "5ce29a5ff8524bba9132cff42e5cbedd",
+      "name": "Warm Up/Cool Down Walking",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 15
+    },
+    {
+      "id": "d84d91191eb54d4aa265f82fe3375b92",
+      "name": "Fun Walk",
+      "display_name": "Fun Walk",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 16
+    },
+    {
+      "id": "da49e151806f426090da2004997d3238",
+      "name": "Power Walking",
+      "display_name": "Power Walk",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 17
+    },
+    {
+      "id": "ca0daca029914c8ba83de0e1543001b3",
+      "name": "Hiking Walking",
+      "display_name": "Hiking",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 18
+    },
+    {
+      "id": "e65de89202dc4d2f853ded0f4daa7c15",
+      "name": "Walk + Run",
+      "display_name": "Walk + Run",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 19
+    },
+    {
+      "id": "50026a12cfcb4be09d2ec1cdda6dbeeb",
+      "name": "Strength Skills",
+      "display_name": "Strength Skills",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 20
+    },
+    {
+      "id": "b6d28ceb6d1448b4b9cc6f0bb97dd78f",
+      "name": "Bodyweight (Strength & toning)",
+      "display_name": "Bodyweight",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 21
+    },
+    {
+      "id": "b9022fc339ba4e6b95f19cb395bd6b71",
+      "name": "Full Body (Strength & Toning)",
+      "display_name": "Full Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 22
+    },
+    {
+      "id": "d2f2f12b633140079d03291738cec418",
+      "name": "Upper Body (strength & toning)",
+      "display_name": "Upper Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 23
+    },
+    {
+      "id": "3e8ce451d5a64913aed7c5ae2d151030",
+      "name": "Core (Strength & Toning)",
+      "display_name": "Core",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 24
+    },
+    {
+      "id": "af137d7195a34e7f96f4d306da554ebd",
+      "name": "Lower Body (Strength & Toning)",
+      "display_name": "Lower Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 25
+    },
+    {
+      "id": "127c41262894455686bf11267239ba79",
+      "name": "Full Body Stretch",
+      "display_name": "Full Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 26
+    },
+    {
+      "id": "34b647095d614f9b8c37b85100db58ce",
+      "name": "Upper Body Stretch",
+      "display_name": "Upper Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 27
+    },
+    {
+      "id": "625597385b1040eeb18f8143cc4e5010",
+      "name": "Lower Body Stretch",
+      "display_name": "Lower Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 28
+    },
+    {
+      "id": "736e33ce009b425e81f276cfaf42b5d3",
+      "name": "Pre & Post-Ride Stretch",
+      "display_name": "Pre & Post-Ride Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 29
+    },
+    {
+      "id": "b6885c9659f04a308164d9809bf58acb",
+      "name": "Pre & Post-Run Stretch",
+      "display_name": "Pre & Post-Run Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 30
+    },
+    {
+      "id": "ca63751ab3f1430fb31d1d06e5d34804",
+      "name": "OUTDOOR Warm Up Cool Down",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 31
+    },
+    {
+      "id": "9dc3be9eaafb476d8853f90cd33e6e04",
+      "name": "OUTDOOR Walking",
+      "display_name": "Walking",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 32
+    },
+    {
+      "id": "69c8c93acf3e46b290694e69ca8db450",
+      "name": "OUTDOOR Fun Run",
+      "display_name": "Fun Run",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 33
+    },
+    {
+      "id": "23732a102a5f425db1ddaff21e35405e",
+      "name": "OUTDOOR Endurance Running",
+      "display_name": "Endurance",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 34
+    },
+    {
+      "id": "db1f7d7342c844a79f2621ab3d4bc183",
+      "name": "OUTDOOR Speed Training",
+      "display_name": "Speed",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 35
+    },
+    {
+      "id": "ee0b994867b946728e880e96297a180e",
+      "name": "OUTDOOR Intervals Running",
+      "display_name": "Intervals",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 36
+    },
+    {
+      "id": "33b4257b1b774511945183dbf7cb2db0",
+      "name": "Fitness Focus",
+      "display_name": "Fitness Focus",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 37
+    },
+    {
+      "id": "24fcd278f49d4f8692879b3dbfa52081",
+      "name": "Meditation Basics",
+      "display_name": "Meditation Basics",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 38
+    },
+    {
+      "id": "4b09fff90e954436b189f1e593c5db51",
+      "name": "Mindfulness",
+      "display_name": "Mindfulness",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 39
+    },
+    {
+      "id": "1fe59d5407c243f987d9050862213835",
+      "name": "Relax & Sleep",
+      "display_name": "Relax & Sleep",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 40
+    },
+    {
+      "id": "d690ffee9e6743a2b3ef5ffc1b490d54",
+      "name": "Meditation Anywhere",
+      "display_name": "Meditation Anywhere",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 41
+    },
+    {
+      "id": "f4cf26e6059943a0a8e3a6533bb76239",
+      "name": "Emotions",
+      "display_name": "Emotions",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 42
+    },
+    {
+      "id": "ee52cd1988ca496ab7b130de8ab3d9b2",
+      "name": "Zen in Ten",
+      "display_name": "Zen in Ten",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 43
+    },
+    {
+      "id": "9f9be657134e4d868d76ae4988da01f1",
+      "name": "Beginner",
+      "display_name": "Beginner",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 44
+    },
+    {
+      "id": "59a49f882ea9475faa3110d50a8fb3f3",
+      "name": "Low Impact",
+      "display_name": "Low Impact",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 45
+    },
+    {
+      "id": "665395ff3abf4081bf315686227d1a51",
+      "name": "Power Zone",
+      "display_name": "Power Zone",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 46
+    },
+    {
+      "id": "bf6639f2e50a4f0395cb1479542ed4bd",
+      "name": "Climb",
+      "display_name": "Climb",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 47
+    },
+    {
+      "id": "a2ee6b0a98e2431baf60e5261b8605e2",
+      "name": "Live DJ",
+      "display_name": "Live DJ",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 48
+    },
+    {
+      "id": "7579b9edbdf9464fa19eb58193897a73",
+      "name": "Intervals",
+      "display_name": "Intervals",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 49
+    },
+    {
+      "id": "8c34b36dba084e22b91426621759230d",
+      "name": "Heart Rate Zone",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 50
+    },
+    {
+      "id": "f10471dcd6a34e5f8ed54eb634b5df19",
+      "name": "Theme",
+      "display_name": "Theme",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 51
+    },
+    {
+      "id": "9745b8e2cb274a28b096387073a5d993",
+      "name": "Groove",
+      "display_name": "Groove",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 52
+    },
+    {
+      "id": "1b31748d30fa4e38b2782698bb831320",
+      "name": "Metrics",
+      "display_name": "Metrics",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 53
+    },
+    {
+      "id": "4228e9e57bf64c518d58a1d0181760c4",
+      "name": "Pro Cyclist",
+      "display_name": "Pro Cyclist",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 54
+    },
+    {
+      "id": "07e0a4ce14b745e9a7be6948cece8334",
+      "name": "HIIT (BTR Cardio)",
+      "display_name": "HIIT",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 55
+    },
+    {
+      "id": "885fa45fc91240cca5ca96d8d0d25bff",
+      "name": "Full Body (BTR Cardio)",
+      "display_name": "Full Body",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 56
+    },
+    {
+      "id": "c17def9c7b004f238a3369476b0866af",
+      "name": "Low Intensity Floor",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 57
+    },
+    {
+      "id": "7761a495d2cb4775b8bb784851d10861",
+      "name": "Shadowboxing (BTR Cardio)",
+      "display_name": "Shadowboxing ",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 58
+    },
+    {
+      "id": "d549728def544a848b2492a3afbd6971",
+      "name": "Total Body Yoga",
+      "display_name": "Total Body",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 59
+    },
+    {
+      "id": "6b0547c130c54f88b1c85b421d53bffa",
+      "name": "Yoga Basics",
+      "display_name": "Yoga Basics",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 60
+    },
+    {
+      "id": "56c834e143d4423799fc1d3f3fd70ec8",
+      "name": "Yoga Flow",
+      "display_name": "Yoga Flow",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 61
+    },
+    {
+      "id": "28172f66e4824a8fbd8b756e6c265ff4",
+      "name": "Power Yoga",
+      "display_name": "Power Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 62
+    },
+    {
+      "id": "9da7b05642d44ec19050fa8bc547ecc9",
+      "name": "Yoga Anywhere",
+      "display_name": "Yoga Anywhere",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 63
+    },
+    {
+      "id": "8fe8155b47a64da0a50a0c314fcd393c",
+      "name": "Restorative Yoga",
+      "display_name": "Restorative Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 64
+    },
+    {
+      "id": "190494e7f04f49bc8d10412b081699e3",
+      "name": "Pre & Postnatal Yoga",
+      "display_name": "Pre & Postnatal Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 65
+    },
+    {
+      "id": "2476cca19b304584942b4897a33ce838",
+      "name": "Bootcamp Basics",
+      "display_name": "Bootcamp Basics",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 66
+    },
+    {
+      "id": "2a33cde6c4e9440b8321b05f700e0736",
+      "name": "Bike Bootcamp",
+      "display_name": "Bike Bootcamp",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 67
+    },
+    {
+      "id": "cd4f646b69ab40d0837f9420a7780149",
+      "name": "Beginner Circuit",
+      "display_name": "Beginner",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 68
+    },
+    {
+      "id": "6543717c3ab74feb8711f224281cdf99",
+      "name": "Cardio",
+      "display_name": "Cardio",
+      "fitness_discipline": "cardio",
+      "is_active": false,
+      "list_order": 69
+    },
+    {
+      "id": "399c3aab3d6e45e48488703a8f7b5904",
+      "name": "Low Intensity Circuit",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 70
+    },
+    {
+      "id": "e47d184cc3e047d6a318a52e0f25a36d",
+      "name": "OUTDOOR Run + Strength",
+      "display_name": "Run + Strength",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 71
+    },
+    {
+      "id": "0b45ef267561426fbcebedae7a7432b1",
+      "name": "OUTDOOR Run + Bodyweight",
+      "display_name": "Run + Bodyweight",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 72
+    },
+    {
+      "id": "a4606e24e17142b794ccfeafe1c56e9c",
+      "name": "Run + Strength",
+      "display_name": "Run + Strength",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 73
+    },
+    {
+      "id": "1a87ed4c06a74566ba7a1e4e3d68378b",
+      "name": "Just Ride",
+      "display_name": "Just Ride",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 74
+    },
+    {
+      "id": "3e8b662199414382be3f4bed70634f6f",
+      "name": "Scenic (Cycling)",
+      "display_name": "Scenic",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 75
+    },
+    {
+      "id": "9ea1256cf69b4bbe9c7b839ac704bde1",
+      "name": "Guided Visualization",
+      "display_name": "Guided Visualization",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 76
+    },
+    {
+      "id": "f7e3235ac4894dcb8694d2559ea43674",
+      "name": "Beginner Running",
+      "display_name": "Beginner",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 77
+    },
+    {
+      "id": "a4a28ea4bb2340bc9620a1fa3e0406d2",
+      "name": "Climb Running",
+      "display_name": "Climb",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 78
+    },
+    {
+      "id": "262ab03b69ef40eebae697463c4971eb",
+      "name": "Distance Running",
+      "display_name": "Distance",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 79
+    },
+    {
+      "id": "be93f3591e444631bd0e42b6d7e7fadc",
+      "name": "Hill Running",
+      "display_name": "Hills",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 80
+    },
+    {
+      "id": "a8b4a232401f44d893554787d25d8e1f",
+      "name": "Just Run",
+      "display_name": "Just Run",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 81
+    },
+    {
+      "id": "9474b7e53df2461b92eca7b772ed9f0e",
+      "name": "Metrics Running",
+      "display_name": "Metrics",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 82
+    },
+    {
+      "id": "e40e2354fecf44258666a85973871525",
+      "name": "not a class type",
+      "display_name": "not a class type",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 83
+    },
+    {
+      "id": "248e8f11ec8b490fb1b7ee540970e861",
+      "name": "Pre & Post Run",
+      "display_name": "Pre & Post Run",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 84
+    },
+    {
+      "id": "f2c29be3cfc14d519c0bb9121ff69105",
+      "name": "Race Prep Running",
+      "display_name": "Race Prep",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 85
+    },
+    {
+      "id": "961ee031e4774014801aea209936356f",
+      "name": "Running Basics",
+      "display_name": "Running Basics",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 86
+    },
+    {
+      "id": "5fbe0d8811c543729700fe50019b5190",
+      "name": "Scenic (Running)",
+      "display_name": "Scenic",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 87
+    },
+    {
+      "id": "f45e6dd7d4ab46be86a23b3f6de0eef0",
+      "name": "Arms & Shoulders (strength & toning) BTR",
+      "display_name": "Arms & Shoulders (strength & toning) BTR",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 88
+    },
+    {
+      "id": "237bbfbb27aa4f5c99cfa9e04299e8ab",
+      "name": "Beginner (strength & toning)",
+      "display_name": "Beginner",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 89
+    },
+    {
+      "id": "d263bc82874e44b9b7b1c450e5c03162",
+      "name": "Chest & Back (Strength & Toning)",
+      "display_name": "Chest & Back",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 90
+    },
+    {
+      "id": "4eb81961bb0843798ed254770797f679",
+      "name": "Strength",
+      "display_name": "Strength",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 91
+    },
+    {
+      "id": "768147e821d249038c00ae3035b2b35f",
+      "name": "Toning (Strength & Toning)",
+      "display_name": "Toning",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 92
+    },
+    {
+      "id": "a46f4789f9cd431b807fe19dcd8fe7de",
+      "name": "Toning",
+      "display_name": "Toning",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 93
+    },
+    {
+      "id": "11bfd07a36aa48b49a94f928287e03c0",
+      "name": "Chest & Back Stretch",
+      "display_name": "Chest & Back Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 94
+    },
+    {
+      "id": "47dd4476990246dd9da127f30f8f9eae",
+      "name": "Post-Ride Stretch",
+      "display_name": "Post-Ride Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 95
+    },
+    {
+      "id": "8fc1cbb71ba34b9485ab5d90c7bfc52b",
+      "name": "Specialized Stretch",
+      "display_name": "Specialized",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 96
+    },
+    {
+      "id": "e20b05ad5eb54ab09b4a13d23e73fef0",
+      "name": "Stretch",
+      "display_name": "Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 97
+    },
+    {
+      "id": "2be6b4aa5a894761829d077fcdc4e0c3",
+      "name": "Distance Walking",
+      "display_name": "Distance",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 98
+    },
+    {
+      "id": "0d7c84da75364e399fe3cb9c264c88a7",
+      "name": "Low Intensity Running/Walking",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 99
+    },
+    {
+      "id": "d501bf75043547218531aff9277c49e3",
+      "name": "OUTDOOR Power Walking",
+      "display_name": "Power Walk",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 100
+    },
+    {
+      "id": "6d010722eae2493eb93408ba559e7088",
+      "name": "OUTDOOR Walk + Run",
+      "display_name": "Walk + Run",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 101
+    },
+    {
+      "id": "9a87e85d85c947c0bdb1388cd4d0a605",
+      "name": "OUTDOOR Walk + Strength",
+      "display_name": "Walk + Strength",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 102
+    },
+    {
+      "id": "045a943d716040d685b8e812791be267",
+      "name": "Walk + Strength",
+      "display_name": "Walk + Strength",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 103
+    },
+    {
+      "id": "1675982798a84c239c552b4cac158e41",
+      "name": "Beginner Yoga",
+      "display_name": "Beginner",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 104
+    },
+    {
+      "id": "991b662d3d384f1ebc403faef7088262",
+      "name": "Evening Yoga",
+      "display_name": "Evening",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 105
+    },
+    {
+      "id": "5cc79a3d63e64d1f96dac2f3e7ec728b",
+      "name": "Morning Yoga",
+      "display_name": "Morning",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 106
+    },
+    {
+      "id": "60567f9a9f8f401bb4e4983ebd78af4d",
+      "name": "test",
+      "display_name": "test",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 107
+    },
+    {
+      "id": "a5dc4597678247ac8053287ad81fa14c",
+      "name": "Yoga",
+      "display_name": "Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 108
+    },
+    {
+      "id": "e811d1b8b957496eb6bdd0f019855eab",
+      "name": "Yoga on the Go",
+      "display_name": "Yoga on the Go",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 109
+    }
+  ],
+  "class_types": [
+    {
+      "id": "a5953fd181914f4eb69e755e1fefffce",
+      "name": "Family Cardio",
+      "display_name": "Family",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 1
+    },
+    {
+      "id": "1fef162e27b4413facff77cc7f766ced",
+      "name": "Dance Cardio",
+      "display_name": "Dance Cardio",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 2
+    },
+    {
+      "id": "6590f6042e8e4d1d8c2f3f1a73cf1729",
+      "name": "Theme (Bootcamp)",
+      "display_name": "Theme",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 3
+    },
+    {
+      "id": "b0a7fc01affb4249aca872a046c6a344",
+      "name": "Bodyweight (Bootcamp)",
+      "display_name": "Bodyweight",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 4
+    },
+    {
+      "id": "209458d0f8c84614aa96537f7fff403f",
+      "name": "Walking Bootcamp",
+      "display_name": "Low Impact",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 5
+    },
+    {
+      "id": "3c65fba3c4a64e2db9a12776e09bc883",
+      "name": "Body Focus (Bootcamp)",
+      "display_name": "Body Focus",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 6
+    },
+    {
+      "id": "b70f0feabd7043cfa1c5f7e9f73b43d5",
+      "name": "Heart Rate Bootcamp",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "circuit",
+      "is_active": true,
+      "list_order": 7
+    },
+    {
+      "id": "919794060b734915b13ddee4e7e39084",
+      "name": "Running Skills",
+      "display_name": "Running Skills",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 8
+    },
+    {
+      "id": "c0681493aaeb4029b01f64a6c9ff3e0e",
+      "name": "Warm Up/Cool Down Running",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 9
+    },
+    {
+      "id": "feda7eed0d8247f2868314eaa74f37fd",
+      "name": "Fun Run",
+      "display_name": "Fun Run",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 10
+    },
+    {
+      "id": "19efefbcf7394ff8bac0ac89a674c545",
+      "name": "Endurance",
+      "display_name": "Endurance",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 11
+    },
+    {
+      "id": "a81cd52ccc3140edb1fbf28dbf880791",
+      "name": "Speed Running",
+      "display_name": "Speed",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 12
+    },
+    {
+      "id": "e2a1f782a89e45abacd962f5aa105990",
+      "name": "Intervals Running",
+      "display_name": "Intervals",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 13
+    },
+    {
+      "id": "85724534f42b490ca1c4fdd4c4d35cf1",
+      "name": "Heart Rate Running",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 14
+    },
+    {
+      "id": "5ce29a5ff8524bba9132cff42e5cbedd",
+      "name": "Warm Up/Cool Down Walking",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 15
+    },
+    {
+      "id": "d84d91191eb54d4aa265f82fe3375b92",
+      "name": "Fun Walk",
+      "display_name": "Fun Walk",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 16
+    },
+    {
+      "id": "da49e151806f426090da2004997d3238",
+      "name": "Power Walking",
+      "display_name": "Power Walk",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 17
+    },
+    {
+      "id": "ca0daca029914c8ba83de0e1543001b3",
+      "name": "Hiking Walking",
+      "display_name": "Hiking",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 18
+    },
+    {
+      "id": "e65de89202dc4d2f853ded0f4daa7c15",
+      "name": "Walk + Run",
+      "display_name": "Walk + Run",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 19
+    },
+    {
+      "id": "50026a12cfcb4be09d2ec1cdda6dbeeb",
+      "name": "Strength Skills",
+      "display_name": "Strength Skills",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 20
+    },
+    {
+      "id": "b6d28ceb6d1448b4b9cc6f0bb97dd78f",
+      "name": "Bodyweight (Strength & toning)",
+      "display_name": "Bodyweight",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 21
+    },
+    {
+      "id": "b9022fc339ba4e6b95f19cb395bd6b71",
+      "name": "Full Body (Strength & Toning)",
+      "display_name": "Full Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 22
+    },
+    {
+      "id": "d2f2f12b633140079d03291738cec418",
+      "name": "Upper Body (strength & toning)",
+      "display_name": "Upper Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 23
+    },
+    {
+      "id": "3e8ce451d5a64913aed7c5ae2d151030",
+      "name": "Core (Strength & Toning)",
+      "display_name": "Core",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 24
+    },
+    {
+      "id": "af137d7195a34e7f96f4d306da554ebd",
+      "name": "Lower Body (Strength & Toning)",
+      "display_name": "Lower Body",
+      "fitness_discipline": "strength",
+      "is_active": true,
+      "list_order": 25
+    },
+    {
+      "id": "127c41262894455686bf11267239ba79",
+      "name": "Full Body Stretch",
+      "display_name": "Full Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 26
+    },
+    {
+      "id": "34b647095d614f9b8c37b85100db58ce",
+      "name": "Upper Body Stretch",
+      "display_name": "Upper Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 27
+    },
+    {
+      "id": "625597385b1040eeb18f8143cc4e5010",
+      "name": "Lower Body Stretch",
+      "display_name": "Lower Body Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 28
+    },
+    {
+      "id": "736e33ce009b425e81f276cfaf42b5d3",
+      "name": "Pre & Post-Ride Stretch",
+      "display_name": "Pre & Post-Ride Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 29
+    },
+    {
+      "id": "b6885c9659f04a308164d9809bf58acb",
+      "name": "Pre & Post-Run Stretch",
+      "display_name": "Pre & Post-Run Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": true,
+      "list_order": 30
+    },
+    {
+      "id": "ca63751ab3f1430fb31d1d06e5d34804",
+      "name": "OUTDOOR Warm Up Cool Down",
+      "display_name": "Warm Up/Cool Down",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 31
+    },
+    {
+      "id": "9dc3be9eaafb476d8853f90cd33e6e04",
+      "name": "OUTDOOR Walking",
+      "display_name": "Walking",
+      "fitness_discipline": "walking",
+      "is_active": true,
+      "list_order": 32
+    },
+    {
+      "id": "69c8c93acf3e46b290694e69ca8db450",
+      "name": "OUTDOOR Fun Run",
+      "display_name": "Fun Run",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 33
+    },
+    {
+      "id": "23732a102a5f425db1ddaff21e35405e",
+      "name": "OUTDOOR Endurance Running",
+      "display_name": "Endurance",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 34
+    },
+    {
+      "id": "db1f7d7342c844a79f2621ab3d4bc183",
+      "name": "OUTDOOR Speed Training",
+      "display_name": "Speed",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 35
+    },
+    {
+      "id": "ee0b994867b946728e880e96297a180e",
+      "name": "OUTDOOR Intervals Running",
+      "display_name": "Intervals",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 36
+    },
+    {
+      "id": "33b4257b1b774511945183dbf7cb2db0",
+      "name": "Fitness Focus",
+      "display_name": "Fitness Focus",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 37
+    },
+    {
+      "id": "24fcd278f49d4f8692879b3dbfa52081",
+      "name": "Meditation Basics",
+      "display_name": "Meditation Basics",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 38
+    },
+    {
+      "id": "4b09fff90e954436b189f1e593c5db51",
+      "name": "Mindfulness",
+      "display_name": "Mindfulness",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 39
+    },
+    {
+      "id": "1fe59d5407c243f987d9050862213835",
+      "name": "Relax & Sleep",
+      "display_name": "Relax & Sleep",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 40
+    },
+    {
+      "id": "d690ffee9e6743a2b3ef5ffc1b490d54",
+      "name": "Meditation Anywhere",
+      "display_name": "Meditation Anywhere",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 41
+    },
+    {
+      "id": "f4cf26e6059943a0a8e3a6533bb76239",
+      "name": "Emotions",
+      "display_name": "Emotions",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 42
+    },
+    {
+      "id": "ee52cd1988ca496ab7b130de8ab3d9b2",
+      "name": "Zen in Ten",
+      "display_name": "Zen in Ten",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 43
+    },
+    {
+      "id": "9f9be657134e4d868d76ae4988da01f1",
+      "name": "Beginner",
+      "display_name": "Beginner",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 44
+    },
+    {
+      "id": "59a49f882ea9475faa3110d50a8fb3f3",
+      "name": "Low Impact",
+      "display_name": "Low Impact",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 45
+    },
+    {
+      "id": "665395ff3abf4081bf315686227d1a51",
+      "name": "Power Zone",
+      "display_name": "Power Zone",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 46
+    },
+    {
+      "id": "bf6639f2e50a4f0395cb1479542ed4bd",
+      "name": "Climb",
+      "display_name": "Climb",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 47
+    },
+    {
+      "id": "a2ee6b0a98e2431baf60e5261b8605e2",
+      "name": "Live DJ",
+      "display_name": "Live DJ",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 48
+    },
+    {
+      "id": "7579b9edbdf9464fa19eb58193897a73",
+      "name": "Intervals",
+      "display_name": "Intervals",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 49
+    },
+    {
+      "id": "8c34b36dba084e22b91426621759230d",
+      "name": "Heart Rate Zone",
+      "display_name": "Heart Rate Zone",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 50
+    },
+    {
+      "id": "f10471dcd6a34e5f8ed54eb634b5df19",
+      "name": "Theme",
+      "display_name": "Theme",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 51
+    },
+    {
+      "id": "9745b8e2cb274a28b096387073a5d993",
+      "name": "Groove",
+      "display_name": "Groove",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 52
+    },
+    {
+      "id": "1b31748d30fa4e38b2782698bb831320",
+      "name": "Metrics",
+      "display_name": "Metrics",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 53
+    },
+    {
+      "id": "4228e9e57bf64c518d58a1d0181760c4",
+      "name": "Pro Cyclist",
+      "display_name": "Pro Cyclist",
+      "fitness_discipline": "cycling",
+      "is_active": true,
+      "list_order": 54
+    },
+    {
+      "id": "07e0a4ce14b745e9a7be6948cece8334",
+      "name": "HIIT (BTR Cardio)",
+      "display_name": "HIIT",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 55
+    },
+    {
+      "id": "885fa45fc91240cca5ca96d8d0d25bff",
+      "name": "Full Body (BTR Cardio)",
+      "display_name": "Full Body",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 56
+    },
+    {
+      "id": "c17def9c7b004f238a3369476b0866af",
+      "name": "Low Intensity Floor",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 57
+    },
+    {
+      "id": "7761a495d2cb4775b8bb784851d10861",
+      "name": "Shadowboxing (BTR Cardio)",
+      "display_name": "Shadowboxing ",
+      "fitness_discipline": "cardio",
+      "is_active": true,
+      "list_order": 58
+    },
+    {
+      "id": "d549728def544a848b2492a3afbd6971",
+      "name": "Total Body Yoga",
+      "display_name": "Total Body",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 59
+    },
+    {
+      "id": "6b0547c130c54f88b1c85b421d53bffa",
+      "name": "Yoga Basics",
+      "display_name": "Yoga Basics",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 60
+    },
+    {
+      "id": "56c834e143d4423799fc1d3f3fd70ec8",
+      "name": "Yoga Flow",
+      "display_name": "Yoga Flow",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 61
+    },
+    {
+      "id": "28172f66e4824a8fbd8b756e6c265ff4",
+      "name": "Power Yoga",
+      "display_name": "Power Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 62
+    },
+    {
+      "id": "9da7b05642d44ec19050fa8bc547ecc9",
+      "name": "Yoga Anywhere",
+      "display_name": "Yoga Anywhere",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 63
+    },
+    {
+      "id": "8fe8155b47a64da0a50a0c314fcd393c",
+      "name": "Restorative Yoga",
+      "display_name": "Restorative Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 64
+    },
+    {
+      "id": "190494e7f04f49bc8d10412b081699e3",
+      "name": "Pre & Postnatal Yoga",
+      "display_name": "Pre & Postnatal Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 65
+    },
+    {
+      "id": "2476cca19b304584942b4897a33ce838",
+      "name": "Bootcamp Basics",
+      "display_name": "Bootcamp Basics",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 66
+    },
+    {
+      "id": "2a33cde6c4e9440b8321b05f700e0736",
+      "name": "Bike Bootcamp",
+      "display_name": "Bike Bootcamp",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 67
+    },
+    {
+      "id": "cd4f646b69ab40d0837f9420a7780149",
+      "name": "Beginner Circuit",
+      "display_name": "Beginner",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 68
+    },
+    {
+      "id": "6543717c3ab74feb8711f224281cdf99",
+      "name": "Cardio",
+      "display_name": "Cardio",
+      "fitness_discipline": "cardio",
+      "is_active": false,
+      "list_order": 69
+    },
+    {
+      "id": "399c3aab3d6e45e48488703a8f7b5904",
+      "name": "Low Intensity Circuit",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 70
+    },
+    {
+      "id": "e47d184cc3e047d6a318a52e0f25a36d",
+      "name": "OUTDOOR Run + Strength",
+      "display_name": "Run + Strength",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 71
+    },
+    {
+      "id": "0b45ef267561426fbcebedae7a7432b1",
+      "name": "OUTDOOR Run + Bodyweight",
+      "display_name": "Run + Bodyweight",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 72
+    },
+    {
+      "id": "a4606e24e17142b794ccfeafe1c56e9c",
+      "name": "Run + Strength",
+      "display_name": "Run + Strength",
+      "fitness_discipline": "circuit",
+      "is_active": false,
+      "list_order": 73
+    },
+    {
+      "id": "1a87ed4c06a74566ba7a1e4e3d68378b",
+      "name": "Just Ride",
+      "display_name": "Just Ride",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 74
+    },
+    {
+      "id": "3e8b662199414382be3f4bed70634f6f",
+      "name": "Scenic (Cycling)",
+      "display_name": "Scenic",
+      "fitness_discipline": "cycling",
+      "is_active": false,
+      "list_order": 75
+    },
+    {
+      "id": "9ea1256cf69b4bbe9c7b839ac704bde1",
+      "name": "Guided Visualization",
+      "display_name": "Guided Visualization",
+      "fitness_discipline": "meditation",
+      "is_active": true,
+      "list_order": 76
+    },
+    {
+      "id": "f7e3235ac4894dcb8694d2559ea43674",
+      "name": "Beginner Running",
+      "display_name": "Beginner",
+      "fitness_discipline": "running",
+      "is_active": true,
+      "list_order": 77
+    },
+    {
+      "id": "a4a28ea4bb2340bc9620a1fa3e0406d2",
+      "name": "Climb Running",
+      "display_name": "Climb",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 78
+    },
+    {
+      "id": "262ab03b69ef40eebae697463c4971eb",
+      "name": "Distance Running",
+      "display_name": "Distance",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 79
+    },
+    {
+      "id": "be93f3591e444631bd0e42b6d7e7fadc",
+      "name": "Hill Running",
+      "display_name": "Hills",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 80
+    },
+    {
+      "id": "a8b4a232401f44d893554787d25d8e1f",
+      "name": "Just Run",
+      "display_name": "Just Run",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 81
+    },
+    {
+      "id": "9474b7e53df2461b92eca7b772ed9f0e",
+      "name": "Metrics Running",
+      "display_name": "Metrics",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 82
+    },
+    {
+      "id": "e40e2354fecf44258666a85973871525",
+      "name": "not a class type",
+      "display_name": "not a class type",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 83
+    },
+    {
+      "id": "248e8f11ec8b490fb1b7ee540970e861",
+      "name": "Pre & Post Run",
+      "display_name": "Pre & Post Run",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 84
+    },
+    {
+      "id": "f2c29be3cfc14d519c0bb9121ff69105",
+      "name": "Race Prep Running",
+      "display_name": "Race Prep",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 85
+    },
+    {
+      "id": "961ee031e4774014801aea209936356f",
+      "name": "Running Basics",
+      "display_name": "Running Basics",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 86
+    },
+    {
+      "id": "5fbe0d8811c543729700fe50019b5190",
+      "name": "Scenic (Running)",
+      "display_name": "Scenic",
+      "fitness_discipline": "running",
+      "is_active": false,
+      "list_order": 87
+    },
+    {
+      "id": "f45e6dd7d4ab46be86a23b3f6de0eef0",
+      "name": "Arms & Shoulders (strength & toning) BTR",
+      "display_name": "Arms & Shoulders (strength & toning) BTR",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 88
+    },
+    {
+      "id": "237bbfbb27aa4f5c99cfa9e04299e8ab",
+      "name": "Beginner (strength & toning)",
+      "display_name": "Beginner",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 89
+    },
+    {
+      "id": "d263bc82874e44b9b7b1c450e5c03162",
+      "name": "Chest & Back (Strength & Toning)",
+      "display_name": "Chest & Back",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 90
+    },
+    {
+      "id": "4eb81961bb0843798ed254770797f679",
+      "name": "Strength",
+      "display_name": "Strength",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 91
+    },
+    {
+      "id": "768147e821d249038c00ae3035b2b35f",
+      "name": "Toning (Strength & Toning)",
+      "display_name": "Toning",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 92
+    },
+    {
+      "id": "a46f4789f9cd431b807fe19dcd8fe7de",
+      "name": "Toning",
+      "display_name": "Toning",
+      "fitness_discipline": "strength",
+      "is_active": false,
+      "list_order": 93
+    },
+    {
+      "id": "11bfd07a36aa48b49a94f928287e03c0",
+      "name": "Chest & Back Stretch",
+      "display_name": "Chest & Back Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 94
+    },
+    {
+      "id": "47dd4476990246dd9da127f30f8f9eae",
+      "name": "Post-Ride Stretch",
+      "display_name": "Post-Ride Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 95
+    },
+    {
+      "id": "8fc1cbb71ba34b9485ab5d90c7bfc52b",
+      "name": "Specialized Stretch",
+      "display_name": "Specialized",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 96
+    },
+    {
+      "id": "e20b05ad5eb54ab09b4a13d23e73fef0",
+      "name": "Stretch",
+      "display_name": "Stretch",
+      "fitness_discipline": "stretching",
+      "is_active": false,
+      "list_order": 97
+    },
+    {
+      "id": "2be6b4aa5a894761829d077fcdc4e0c3",
+      "name": "Distance Walking",
+      "display_name": "Distance",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 98
+    },
+    {
+      "id": "0d7c84da75364e399fe3cb9c264c88a7",
+      "name": "Low Intensity Running/Walking",
+      "display_name": "Low Intensity",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 99
+    },
+    {
+      "id": "d501bf75043547218531aff9277c49e3",
+      "name": "OUTDOOR Power Walking",
+      "display_name": "Power Walk",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 100
+    },
+    {
+      "id": "6d010722eae2493eb93408ba559e7088",
+      "name": "OUTDOOR Walk + Run",
+      "display_name": "Walk + Run",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 101
+    },
+    {
+      "id": "9a87e85d85c947c0bdb1388cd4d0a605",
+      "name": "OUTDOOR Walk + Strength",
+      "display_name": "Walk + Strength",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 102
+    },
+    {
+      "id": "045a943d716040d685b8e812791be267",
+      "name": "Walk + Strength",
+      "display_name": "Walk + Strength",
+      "fitness_discipline": "walking",
+      "is_active": false,
+      "list_order": 103
+    },
+    {
+      "id": "1675982798a84c239c552b4cac158e41",
+      "name": "Beginner Yoga",
+      "display_name": "Beginner",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 104
+    },
+    {
+      "id": "991b662d3d384f1ebc403faef7088262",
+      "name": "Evening Yoga",
+      "display_name": "Evening",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 105
+    },
+    {
+      "id": "5cc79a3d63e64d1f96dac2f3e7ec728b",
+      "name": "Morning Yoga",
+      "display_name": "Morning",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 106
+    },
+    {
+      "id": "60567f9a9f8f401bb4e4983ebd78af4d",
+      "name": "test",
+      "display_name": "test",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 107
+    },
+    {
+      "id": "a5dc4597678247ac8053287ad81fa14c",
+      "name": "Yoga",
+      "display_name": "Yoga",
+      "fitness_discipline": "yoga",
+      "is_active": false,
+      "list_order": 108
+    },
+    {
+      "id": "e811d1b8b957496eb6bdd0f019855eab",
+      "name": "Yoga on the Go",
+      "display_name": "Yoga on the Go",
+      "fitness_discipline": "yoga",
+      "is_active": true,
+      "list_order": 109
+    }
+  ],
+  "rides": [
+    {
+      "class_type_ids": [
+        "f10471dcd6a34e5f8ed54eb634b5df19"
+      ],
+      "content_provider": "peloton",
+      "content_format": "video",
+      "description": "Rock and ride in this downhome, boot-stompin’ class. ",
+      "difficulty_estimate": 7.5393,
+      "overall_estimate": 0.9909,
+      "difficulty_rating_avg": 7.5393,
+      "difficulty_rating_count": 12962,
+      "difficulty_level": null,
+      "duration": 1800,
+      "equipment_ids": [],
+      "equipment_tags": [],
+      "extra_images": [],
+      "fitness_discipline": "cycling",
+      "fitness_discipline_display_name": "Cycling",
+      "has_closed_captions": true,
+      "has_pedaling_metrics": true,
+      "home_peloton_id": "2fc53de67b184ceb860d2a0dc731f768",
+      "id": "6228e8bfda184914b38138cd8ea463d1",
+      "image_url": "https://s3.amazonaws.com/peloton-ride-images/333b0d1e186bacdce0321f29aebdf86d675baa3e/img_1568587458_fd7dbd992a444660ab97a5a8edf92091.png",
+      "instructor_id": "561f95c405734d8488ed8dcc8980d599",
+      "is_archived": true,
+      "is_closed_caption_shown": true,
+      "is_explicit": false,
+      "has_free_mode": false,
+      "is_live_in_studio_only": false,
+      "language": "english",
+      "origin_locale": "en-US",
+      "length": 1972,
+      "live_stream_id": "6228e8bfda184914b38138cd8ea463d1-live",
+      "live_stream_url": null,
+      "location": "nyc",
+      "metrics": [
+        "heart_rate",
+        "cadence",
+        "calories"
+      ],
+      "original_air_time": 1568584140,
+      "overall_rating_avg": 0.9909,
+      "overall_rating_count": 16199,
+      "pedaling_start_offset": 60,
+      "pedaling_end_offset": 1860,
+      "pedaling_duration": 1800,
+      "rating": 0,
+      "ride_type_id": "f10471dcd6a34e5f8ed54eb634b5df19",
+      "ride_type_ids": [
+        "f10471dcd6a34e5f8ed54eb634b5df19"
+      ],
+      "sample_vod_stream_url": null,
+      "scheduled_start_time": 1568584800,
+      "series_id": "f00041a4e6bf41f9a09324a5ed25e9bc",
+      "sold_out": false,
+      "studio_peloton_id": "56ee75633f214fb496cdadf20ff41d49",
+      "title": "30 min Country Ride",
+      "total_ratings": 0,
+      "total_in_progress_workouts": 7,
+      "total_workouts": 25479,
+      "vod_stream_url": null,
+      "vod_stream_id": "6228e8bfda184914b38138cd8ea463d1-vod",
+      "captions": [
+        "en-US"
+      ]
+    },
+    {
+      "class_type_ids": [
+        "7579b9edbdf9464fa19eb58193897a73"
+      ],
+      "content_provider": "peloton",
+      "content_format": "video",
+      "description": "Efficient and effective, this intervals-driven class boosts metabolism and gives you a heart-healthy workout leaving you full of energy and confidence.  ",
+      "difficulty_estimate": 7.6503,
+      "overall_estimate": 0.9846,
+      "difficulty_rating_avg": 7.6503,
+      "difficulty_rating_count": 5078,
+      "difficulty_level": null,
+      "duration": 1200,
+      "equipment_ids": [],
+      "equipment_tags": [],
+      "extra_images": [],
+      "fitness_discipline": "cycling",
+      "fitness_discipline_display_name": "Cycling",
+      "has_closed_captions": true,
+      "has_pedaling_metrics": true,
+      "home_peloton_id": "d1729d93c0a64ab7aab8eda2ff6e3676",
+      "id": "e2e9a5618ea94274850a4e29b630dea3",
+      "image_url": "https://s3.amazonaws.com/peloton-ride-images/dd6b793d04555062bbbd6c7d4b88210c3b95298e/img_1571064189_2e29b2b107f743e0a829aad473012d5c.png",
+      "instructor_id": "561f95c405734d8488ed8dcc8980d599",
+      "is_archived": true,
+      "is_closed_caption_shown": true,
+      "is_explicit": false,
+      "has_free_mode": false,
+      "is_live_in_studio_only": false,
+      "language": "english",
+      "origin_locale": "en-US",
+      "length": 1366,
+      "live_stream_id": "e2e9a5618ea94274850a4e29b630dea3-live",
+      "live_stream_url": null,
+      "location": "nyc",
+      "metrics": [
+        "heart_rate",
+        "cadence",
+        "calories"
+      ],
+      "original_air_time": 1571061120,
+      "overall_rating_avg": 0.9846,
+      "overall_rating_count": 6291,
+      "pedaling_start_offset": 60,
+      "pedaling_end_offset": 1260,
+      "pedaling_duration": 1200,
+      "rating": 0,
+      "ride_type_id": "7579b9edbdf9464fa19eb58193897a73",
+      "ride_type_ids": [
+        "7579b9edbdf9464fa19eb58193897a73"
+      ],
+      "sample_vod_stream_url": null,
+      "scheduled_start_time": 1571061300,
+      "series_id": "3eeb7b9e3a3d4e01b6348da56790bdd2",
+      "sold_out": false,
+      "studio_peloton_id": "085d77999f594b9087a2813a8611f097",
+      "title": "20 min HIIT Ride",
+      "total_ratings": 0,
+      "total_in_progress_workouts": 0,
+      "total_workouts": 11409,
+      "vod_stream_url": null,
+      "vod_stream_id": "e2e9a5618ea94274850a4e29b630dea3-vod",
+      "captions": [
+        "en-US"
+      ]
+    },
+    {
+      "class_type_ids": [
+        "7579b9edbdf9464fa19eb58193897a73"
+      ],
+      "content_provider": "peloton",
+      "content_format": "video",
+      "description": "Bursts of effort integrated with free weight segments and followed by recovery, these rides challenge your mind and strengthen your body inside and out.",
+      "difficulty_estimate": 0.0,
+      "overall_estimate": 0.0,
+      "difficulty_rating_avg": 0.0,
+      "difficulty_rating_count": 0,
+      "difficulty_level": null,
+      "duration": 1800,
+      "equipment_ids": [
+        "0f5f1ff2d6c647cf98d599ed90ad72d3"
+      ],
+      "equipment_tags": [],
+      "extra_images": [],
+      "fitness_discipline": "cycling",
+      "fitness_discipline_display_name": "Cycling",
+      "has_closed_captions": false,
+      "has_pedaling_metrics": true,
+      "home_peloton_id": "4e9f1fe9376c4a59b85c4857ace6072c",
+      "id": "60bb7eda6d3841b9b24d4a695d3dbe14",
+      "image_url": null,
+      "instructor_id": "2e57092bee334c8c8dcb9fe16ba5308c",
+      "is_archived": false,
+      "is_closed_caption_shown": false,
+      "is_explicit": false,
+      "has_free_mode": false,
+      "is_live_in_studio_only": false,
+      "language": "english",
+      "origin_locale": "en-US",
+      "length": 0,
+      "live_stream_id": "60bb7eda6d3841b9b24d4a695d3dbe14-live",
+      "live_stream_url": "https://us-bike.akamaized.net/hls/live/2015334/fromhome/master.m3u8",
+      "location": "us-bike-remote-broadcast",
+      "metrics": [
+        "heart_rate",
+        "cadence",
+        "calories"
+      ],
+      "original_air_time": null,
+      "overall_rating_avg": 0.0,
+      "overall_rating_count": 0,
+      "pedaling_start_offset": 0,
+      "pedaling_end_offset": 0,
+      "pedaling_duration": 0,
+      "rating": 0,
+      "ride_type_id": "7579b9edbdf9464fa19eb58193897a73",
+      "ride_type_ids": [
+        "7579b9edbdf9464fa19eb58193897a73"
+      ],
+      "sample_vod_stream_url": null,
+      "scheduled_start_time": 1588694400,
+      "series_id": "283319daf8834b86a6205737001b0d56",
+      "sold_out": false,
+      "studio_peloton_id": "8316480df3344e0b9e22c0e0e15d0c46",
+      "title": "30 min Intervals & Arms: Live from Home",
+      "total_ratings": 0,
+      "total_in_progress_workouts": 0,
+      "total_workouts": 0,
+      "vod_stream_url": null,
+      "vod_stream_id": "60bb7eda6d3841b9b24d4a695d3dbe14-vod",
+      "captions": []
+    },
+    {
+      "class_type_ids": [
+        "59a49f882ea9475faa3110d50a8fb3f3"
+      ],
+      "content_provider": "peloton",
+      "content_format": "video",
+      "description": "Take a few extra minutes after a ride to lower your heart rate and ease your body into a healthy recovery zone. ",
+      "difficulty_estimate": 3.8812,
+      "overall_estimate": 0.9942,
+      "difficulty_rating_avg": 3.8812,
+      "difficulty_rating_count": 25223,
+      "difficulty_level": null,
+      "duration": 300,
+      "equipment_ids": [],
+      "equipment_tags": [],
+      "extra_images": [],
+      "fitness_discipline": "cycling",
+      "fitness_discipline_display_name": "Cycling",
+      "has_closed_captions": true,
+      "has_pedaling_metrics": true,
+      "home_peloton_id": "cf0e974d88b9455ebd6824e48124a9af",
+      "id": "70dee24cd2b7482eb38ee452595e3841",
+      "image_url": "https://s3.amazonaws.com/peloton-ride-images/892548947389f360e4743331b597feb878d10264/img_1570136787_6104ff277509470a8fd7a72efe12f317.png",
+      "instructor_id": "2e57092bee334c8c8dcb9fe16ba5308c",
+      "is_archived": true,
+      "is_closed_caption_shown": true,
+      "is_explicit": false,
+      "has_free_mode": false,
+      "is_live_in_studio_only": true,
+      "language": "english",
+      "origin_locale": "en-US",
+      "length": 314,
+      "live_stream_id": "70dee24cd2b7482eb38ee452595e3841-live",
+      "live_stream_url": null,
+      "location": "nyc",
+      "metrics": [
+        "heart_rate",
+        "cadence",
+        "calories"
+      ],
+      "original_air_time": 1570131540,
+      "overall_rating_avg": 0.9942,
+      "overall_rating_count": 35506,
+      "pedaling_start_offset": 1,
+      "pedaling_end_offset": 301,
+      "pedaling_duration": 300,
+      "rating": 0,
+      "ride_type_id": "59a49f882ea9475faa3110d50a8fb3f3",
+      "ride_type_ids": [
+        "59a49f882ea9475faa3110d50a8fb3f3"
+      ],
+      "sample_vod_stream_url": null,
+      "scheduled_start_time": 1570132800,
+      "series_id": "8c0da6bd58b24ab5bab097143b402b7a",
+      "sold_out": false,
+      "studio_peloton_id": "6d8bed46a8654a94b953ca795183fc04",
+      "title": "5 min Cool Down Ride",
+      "total_ratings": 0,
+      "total_in_progress_workouts": 2,
+      "total_workouts": 78520,
+      "vod_stream_url": null,
+      "vod_stream_id": "70dee24cd2b7482eb38ee452595e3841-vod",
+      "captions": [
+        "en-US"
+      ]
+    }
+  ],
+  "limit": null,
+  "browse_categories": [
+    {
+      "id": "945f74385ce14e19bb554c6664a24a73",
+      "name": "Meditation",
+      "slug": "meditation",
+      "list_order": 5,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/c63f80f6f68747ba9a23c0c878a06479",
+      "portal_image_url": "https://browse-categories-images-prod.s3.amazonaws.com/4a18caebf19341faaa29d4e23ac4c09c"
+    },
+    {
+      "id": "bf8702474a5a4ec9b36b143a6a9dd3a1",
+      "name": "Yoga",
+      "slug": "yoga",
+      "list_order": 4,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/5940348ba4424679a8a35b55a7e8e632",
+      "portal_image_url": "https://browse-categories-images-prod.s3.amazonaws.com/c351a67a13174a549d7aea150891ca64"
+    },
+    {
+      "id": "946ed9ed0489457a8da22f6a03ed66d1",
+      "name": "Cardio",
+      "slug": "cardio",
+      "list_order": 9,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/0dbf7b79a390490582dcd55e3fd8b84d",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/78e98de9e04a436ea7df2e4ea6a522ce"
+    },
+    {
+      "id": "70ced881326143949b1313534ec15871",
+      "name": "Stretching",
+      "slug": "stretching",
+      "list_order": 6,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/4ae6c07cfcac4480977937efc10bb077",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/df5d4386708145c7b04781c9d1fe5a8f"
+    },
+    {
+      "id": "8a0ea0583ecf40a09c0e19d1c798c53e",
+      "name": "Bootcamp",
+      "slug": "bootcamp",
+      "list_order": 7,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/d4b5eea91e9149d3890c5eee69cad1db",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/e9b054091434478285000ec15dd2d2a0"
+    },
+    {
+      "id": "2e56ee670dd34cc9bbc95d3704ca90ad",
+      "name": "Running",
+      "slug": "running",
+      "list_order": 0,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/cb92005fe5e14531a359c3d31de9e5d0",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/2dd45c9c847844ea8b64a84bd98a023f"
+    },
+    {
+      "id": "dfcaa3e323ee464b9498e8818daa0784",
+      "name": "Cycling",
+      "slug": "cycling",
+      "list_order": 2,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/43fdad96c58842d0bc3f61c4dec7a265",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/7e47ee503e434628acb94be43e49d208"
+    },
+    {
+      "id": "072fb234a6c14b29a0e7ec3c2d0f090d",
+      "name": "Walking",
+      "slug": "walking",
+      "list_order": 8,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/5efb062675eb4ce5b986afdca40aae90",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/c303c8d09955417f928f6a75a4ae4334"
+    },
+    {
+      "id": "f24e8ddbc6314da29c1980c65e8989e7",
+      "name": "Strength",
+      "slug": "strength",
+      "list_order": 3,
+      "icon_url": "https://browse-categories-images-prod.s3.amazonaws.com/623d5f9481814201b3f250da8cd22c70",
+      "portal_image_url": "https://s3.amazonaws.com/browse-categories-images-prod/6ac43507671a4a659a10f0036f75ebcf"
+    }
+  ],
+  "fitness_disciplines": [
+    {
+      "id": "meditation",
+      "name": "Meditation"
+    },
+    {
+      "id": "running",
+      "name": "Running"
+    },
+    {
+      "id": "stretching",
+      "name": "Stretching"
+    },
+    {
+      "id": "walking",
+      "name": "Walking"
+    },
+    {
+      "id": "yoga",
+      "name": "Yoga"
+    },
+    {
+      "id": "circuit",
+      "name": "Bootcamp"
+    },
+    {
+      "id": "beyond_the_ride",
+      "name": "Floor"
+    },
+    {
+      "id": "cycling",
+      "name": "Cycling"
+    },
+    {
+      "id": "strength",
+      "name": "Strength"
+    },
+    {
+      "id": "cardio",
+      "name": "Cardio"
+    }
+  ]
+}
