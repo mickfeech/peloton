@@ -15,11 +15,12 @@ func (c *ApiClient) GetInstructors() (*models.Instructors, error) {
 }
 
 // GetSchedule
-func (c *ApiClient) GetSchedule() (*models.Schedule, error) {
+func (c *ApiClient) GetSchedule(start int, end int) (*models.Schedule, error) {
+	scheduleUrl := fmt.Sprintf("/api/v3/ride/live?content_provider=studio&browse_category=cycling&exclude_complete=true&start=%v&end=%v", start, end)
 	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
 		SetResult(&models.Schedule{}).
-		Get("/api/v3/ride/live")
+		Get(scheduleUrl)
 	return resp.Result().(*models.Schedule), nil
 }
 
