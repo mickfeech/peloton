@@ -3,6 +3,7 @@ package peloton
 import (
 	"fmt"
 	"github.com/mickfeech/peloton/models"
+	//	"github.com/thedevsaddam/gojsonq/v2"
 )
 
 // Instructors method creates a request to retrieve data about the instructors
@@ -15,13 +16,13 @@ func (c *ApiClient) GetInstructors() (*models.Instructors, error) {
 }
 
 // GetSchedule
-func (c *ApiClient) GetSchedule(start int, end int) (*models.Schedule, error) {
+func (c *ApiClient) GetSchedule(start int, end int) (*models.ScheduleResponse, error) {
 	scheduleUrl := fmt.Sprintf("/api/v3/ride/live?content_provider=studio&browse_category=cycling&exclude_complete=true&start=%v&end=%v", start, end)
 	resp, _ := c.Client.R().
 		SetHeader("Accept", "application/json").
-		SetResult(&models.Schedule{}).
+		SetResult(&models.ScheduleResponse{}).
 		Get(scheduleUrl)
-	return resp.Result().(*models.Schedule), nil
+	return resp.Result().(*models.ScheduleResponse), nil
 }
 
 // Workouts method creates a request to retrieve workout data by userid
