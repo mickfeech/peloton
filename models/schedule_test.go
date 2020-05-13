@@ -10,7 +10,7 @@ import (
 )
 
 var _ = Describe("Schedule Model", func() {
-	var mySchedule Schedule
+	var mySchedule ScheduleResponse
 	BeforeEach(func() {
 		testData, err := ioutil.ReadFile("../testdata/schedule.json")
 		if err != nil {

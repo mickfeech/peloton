@@ -1,6 +1,6 @@
 package models
 
-type Schedule struct {
+type ScheduleResponse struct {
 	Total  int    `json:"total"`
 	Count  int    `json:"count"`
 	SortBy string `json:"sort_by"`
